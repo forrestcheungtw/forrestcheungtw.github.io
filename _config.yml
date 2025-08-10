@@ -13,7 +13,7 @@ title                    : "Forrest Cheung, PhD"
 title_separator          : "-"
 name                     : &name "Forrest Cheung"
 description              : &description "personal description"
-url                      : https://forrestcheungtw.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://forrestcheungtw.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://forrestcheungtw.github.io/"
 
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Forrest TW Cheung"
   pronouns         : # example: "she/her"  
-  bio              : "I'm a sleep scientist"
+  bio              : "Postdoctoral Researcher in Sleep Medicine"
   location         : "Oxford, United Kingdom"
-  employer         : "University of Xxford"
+  employer         : "University of Oxford"
   uri              : # URL
   email            : "forrestcheungtw@gmail.com" 
 
