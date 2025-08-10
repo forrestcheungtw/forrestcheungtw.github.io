@@ -1,6 +1,8 @@
 main:
+  - title: Research
+    url: ''
   - title: Publications
-    url: https://forrestcheungtw.github.io/publications/
+    url: /publications/
   - title: Teaching
     url: https://forrestcheungtw.github.io/teaching/
   - title: Talks
@@ -9,5 +11,3 @@ main:
     url: https://forrestcheungtw.github.io/updates/
   - title: Others
     url: /others/
-  - title: CV
-    url: /mycv/
