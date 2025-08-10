@@ -11,35 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Sleep and Circadian Medicine, University of Hong Kong, 2022
+* BSocsc in Psychology and Counselling, University of Hong Kong, 2015
 
-Work experience
+Academic Appointment
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-Present: Postdoctoral Research Associate in Sleep Medicine
+  * Sir Jules Thorn Sleep & Circadian Neuroscience Institute, 
+Nuffield Department of Clinical Neurosciences, University of Oxford
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2024: Postdoctoral Research Fellow
+  * State Key Laboratory of Brain and Cognitive Sciences,
+Department of Psychology, University of Hong Kong
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Professional Qualification
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024-Present: Chartered Psychologist, The British Psychological Society
+* 2024-Present: Registered Polysomnographic Technologist (RPSGT), Board of Registered Polysomnographic Technologists
 
 Publications
 ======
@@ -59,6 +47,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
