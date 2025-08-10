@@ -8,9 +8,9 @@ redirect_from:
 ---
 ## Hello!
 
-I’m Forrest. I'm a postdoctorial researcher in sleep medicine at the University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living. But more than that, I’m driven by a real interest in how sleep the body’s internal clock affects mental health, especially in more vulnerable populations. I created this site as a place to share a bit about what I’m working on. <br>
+I’m Forrest. I'm a postdoctorial researcher in sleep medicine at the University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living. But more than that, I’m driven by a real interest in how sleep the body’s internal clock affects mental health, especially in more vulnerable populations. 
 
-Please take a look around, and feel free to get in touch if anything sparks your interest.
+I created this site as a place to share a bit about what I’m working on. Please take a look around, and feel free to get in touch if anything sparks your interest.
 
 ### Research Focus
 - Adolescence mental health
