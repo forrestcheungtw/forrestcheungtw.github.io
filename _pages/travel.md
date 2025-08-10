@@ -5,11 +5,7 @@ permalink: /travel/
 author_profile: true
 ---
 
-Exploring the world has always been a big part of who I am. While my academic journey often keeps me at my desk or in the lab, traveling offers me a chance to reset, reflect, and connect with people and places beyond research.
-
-### 🌍 Why I Travel
-
-Travel, to me, is not just about visiting new places — it’s about perspective. It teaches patience, adaptability, and humility — all of which, in a way, feed back into how I approach my work as a researcher and educator.
+A bit of change from other part of the website. Besides doing some work in sleep and stuff, I also like to travel around the world. 
 
 ### ✈️ Favorite Places
 
