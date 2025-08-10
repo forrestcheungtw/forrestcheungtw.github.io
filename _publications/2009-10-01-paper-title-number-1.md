@@ -4,7 +4,7 @@ title: >-
   Cross-Lagged Panel Analysis
 collection: publications
 category: manuscripts
-permalink: pub1
+permalink: cheung2024
 excerpt: >-
   Forrest Tin Wai Cheung, Hao Fong Sit, Xiao Li， Joey Wing Yan Chan, Ngan Yin
   Chan, Yun Kwok Wing, Shirley Xin Li
@@ -13,9 +13,7 @@ venue: Clocks & Sleep
 slidesurl:
 paperurl: http://academicpages.github.io/files/paper1.pdf
 bibtexurl:
-citation: >-
-  Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>.
-  1(1).
+citation: Cheung et al. (2024), Clocks & Sleep, 6(4), 557-567
 ---
 **Abstract**
 
