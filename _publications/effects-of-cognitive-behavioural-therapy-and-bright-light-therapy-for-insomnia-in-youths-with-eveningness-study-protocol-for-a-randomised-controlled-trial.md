@@ -12,13 +12,15 @@ excerpt: >-
 date: 2024-04-09T00:00:00+01:00
 venue: Trials
 slidesurl:
-paperurl: /files/Cheung-2024-What Does the Future Ho.pdf
+paperurl: /files/Li-2024-Effects of cognitive behavioural thera.pdf
 citation: Li, Cheung et al. (2024). Trials, 25(1), 246
 ---
-**Abstract**
+### **Abstract**
 
-Youth represents a vulnerable developmental period associated with significant sleep and circadian changes. One notable change is increased eveningness, which refers to a tendency for later sleep and daily activities. Eveningness has been associated with various adverse outcomes in youth, including compromised sleep, mental health, and physical well-being. As such, it is imperative to develop effective interventions to address these issues. While some evidence suggests short-term benefits of interventions targeting circadian problems, the extent of our knowledge regarding the long-term impact on youth remains uncertain. In this issue of the Journal, Susman et al.4 shed light on this crucial question through their study that examined the effects of the Transdiagnostic Sleep and Circadian Intervention for Youth (TranS-C) - a modular cognitive-behavioral intervention that specifically targets sleep and circadian issues.
+**Background<br>**Insomnia and eveningness are common and often comorbid conditions in youths. While cognitive behavioural therapy for insomnia (CBT-I) has been suggested as a promising intervention, it remains unclear whether it is sufficient to also address circadian issues in youths. In addition, despite that light has been shown to be effective in phase-shifting one’s circadian rhythm, there has been limited data on the effects of bright light therapy and its combination with CBT-I on sleep and circadian outcomes in youths. The current protocol outlines a randomised controlled trial that examines the efficacy of CBT-I and CBT-I plus bright light therapy (BLT) in reducing insomnia severity, improving mood symptoms and daytime functioning (e.g. sleepiness, fatigue, cognitive function), and improving subjective and objective sleep and circadian measures compared to a waitlist control group.
 
-&nbsp;
+**Methods<br>**We will carry out a randomised controlled trial (RCT) with 150 youths aged 12–24 who meet the criteria of insomnia and eveningness. Participants will be randomised into one of three groups: CBT-I with bright light therapy, CBT-I with placebo light, and waitlist control. Six sessions of CBT-I will be delivered in a group format, while participants will be currently asked to use a portable light device for 30 min daily immediately after awakening throughout the intervention period for bright light therapy. The CBT-I with light therapy group will receive bright constant green light (506 lx) while the CBT-I with placebo light group will receive the modified light device with the LEDs emitting less than 10 lx. All participants will be assessed at baseline and post-treatment, while the two active treatment groups will be additionally followed up at 1 month and 6 months post-intervention. The primary outcome will be insomnia severity, as measured by the Insomnia Severity Index. Secondary outcomes include self-reported mood, circadian, daytime functioning, and quality of life measures, as well as sleep parameters derived from actigraphy and sleep diary and neurocognitive assessments. Objective measures of the circadian phase using dim-light melatonin onset assessment and sleep parameters using polysomnography will also be included as the secondary outcomes.
 
-&nbsp;
+**Discussion<br>**This study will be the first RCT to directly compare the effects of CBT-I and BLT in youths with insomnia and eveningness. Findings from the study will provide evidence to inform the clinical management of insomnia problems and eveningness in youths.
+
+**Trial registration<br>**ClinicalTrials.gov NCT04256915. Registered on 5 February 2020.
