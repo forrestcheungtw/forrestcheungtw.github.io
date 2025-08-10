@@ -1,6 +1,6 @@
 main:
   - title: Research
-    url: ''
+    url: /research/
   - title: Publications
     url: /publications/
   - title: Teaching
