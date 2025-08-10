@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: >-
+  What Does the Future Hold for Psychological Treatments in Youth? Long-Term
+  Perspectives on Sleep and Circadian Interventions
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: Cheung FTW, Li SX
+excerpt:
+date: 2010-10-01T00:00:00Z
+venue: Journal of the American Academy of Child and Adolescent Psychiatry
+slidesurl: 
+paperurl: http://academicpages.github.io/files/paper2.pdf
+citation: >-
+  Cheung and Li. (2024). Journal of the American Academy of Child and Adolescent Psychiatry, S0890-8567(24), 1324-8
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Youth represents a vulnerable developmental period associated with significant sleep and circadian changes. One notable change is increased eveningness, which refers to a tendency for later sleep and daily activities. Eveningness has been associated with various adverse outcomes in youth, including compromised sleep, mental health, and physical well-being. As such, it is imperative to develop effective interventions to address these issues. While some evidence suggests short-term benefits of interventions targeting circadian problems, the extent of our knowledge regarding the long-term impact on youth remains uncertain. In this issue of the Journal, Susman et al.4 shed light on this crucial question through their study that examined the effects of the Transdiagnostic Sleep and Circadian Intervention for Youth (TranS-C) - a modular cognitive-behavioral intervention that specifically targets sleep and circadian issues.
