@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hello
+## Hello!
 
 I’m Forrest. I'm a postdoctorial researcher in sleep medicine at the University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living. But more than that, I’m driven by a real interest in how sleep the body’s internal clock affects mental health, especially in more vulnerable populations. I created this site as a place to share a bit about what I’m working on. <br>
 
@@ -22,16 +22,18 @@ Please take a look around, and feel free to get in touch if anything sparks your
 ### Methodology
 - Actigraphy
 - Meta-analysis
+- Melatonin assessment
 - Polysomnography (PSG) / EEG
 - Randomised control trial (RCT)
 
-### My academic jounrey
+### My academic journey
+Like many people, my first real encounter with academic research was during my undergraduate dissertation. I joined the Psychosis Lab, where I worked on a project looking at how working memory is affected in people with psychosis proneness. I found the whole process of asking questions and trying to figure out the answers genuinely fascinating.
 
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website’s content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub’s servers free of charge.
+After graduating, I applied to a few research assistant jobs and eventually took on a role as a project manager at the [Centre for Suicide Research and Prevention](https://csrp.hku.hk/) at HKU. I worked on projects exploring protective factors against suicide, as well as analysis the content of suicide notes. It was important work, but to be honest, it wasn’t the happiest job in the world — so after about a year and a half, I decided to step away.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart’s content without touching the content of your site. If you get to a point where you’ve broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you’ve given a talk](https://academicpages.github.io/talkmap.html).
+I spent some time abroad, enjoying life, and thinking seriously about what I wanted to do next. In early 2018, I applied for a PhD and ended up joining the [Sleep Research Clinic and Laboratory](https://sleep.hku.hk/) at HKU, under the guidance of Prof. Shirley Li. I was also lucky to have opportunities to collaborate with colleagues at the [Li Chiu Kong Family Sleep Assessment Unit](https://www.psychiatry.cuhk.edu.hk/sau/sleep-assessment-unit/) at CUHK. That’s where my journey into sleep and circadian research really began.
 
-For those users that need more advanced functionality, the template also supports the following popular tools: - [MathJax](https://www.mathjax.org/) for mathematical equations - [Mermaid](https://mermaid.js.org/) for diagraming - [Plotly](https://plotly.com/javascript/) for plotting
+My doctoral work focused on how circadian rhythms contribute to insomnia in adolescents and explored the use of bright light therapy as a potential treatment for those who tend to sleep late and struggle with insomnia. During this time, I became increasingly interested in the broader role of circadian rhythms, not just in sleep, but in things like diet, daily functioning, and overall health. That curiosity about how misaligned body clocks affect well-being is what brings me to my current work!
 
 ### Contact Me
 If you have any questions, suggestions, or just want to chat about sleep research especially if you're interested in my work or exploring a potential collaboration, feel free to reach out: [forrestcheungtw@gmail.com](mailto:forrestcheungtw@gmail.com).
