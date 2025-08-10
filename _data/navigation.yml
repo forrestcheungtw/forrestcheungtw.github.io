@@ -1,12 +1,12 @@
 main:
   - title: Publications
-    url: /publications/
+    url: https://forrestcheungtw.github.io/publications/
   - title: Teaching
-    url: /teaching/
+    url: https://forrestcheungtw.github.io/teaching/
   - title: Talks
-    url: /talks/
+    url: https://forrestcheungtw.github.io/talks/
   - title: News & Updates
-    url: /updates/
+    url: https://forrestcheungtw.github.io/updates/
   - title: Others
     url: /others/
   - title: CV
