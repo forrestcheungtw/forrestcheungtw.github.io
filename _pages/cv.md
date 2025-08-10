@@ -25,10 +25,8 @@ Department of Psychology, University of Hong Kong
 
 Professional Qualification
 ======
-* 2024-Present: Chartered Psychologist
-  * The British Psychological Society
-* 2024-Present: Registered Polysomnographic Technologist (RPSGT)
-  * Board of Registered Polysomnographic Technologists
+* Chartered Psychologist, The British Psychological Society
+* Registered Polysomnographic Technologist, Board of Registered Polysomnographic Technologists
 
 Honours and Awards
 ======
