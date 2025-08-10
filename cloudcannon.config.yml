@@ -1,0 +1,154 @@
+_schema: _schema
+paths:
+  uploads: uploads
+  static: ''
+collections_config:
+  drafts:
+    path: _drafts
+    name: Drafts
+    icon: event
+    disable_url: false
+    _inputs:
+      categories:
+        type: multiselect
+        options:
+          allow_create: true
+          empty_type: array
+          values: collections.posts[*].categories
+        cascade: true
+      tags:
+        type: multiselect
+        options:
+          allow_create: true
+          empty_type: array
+          values: collections.posts[*].tags
+        cascade: true
+    create:
+      path: ''
+      publish_to: posts
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  portfolio:
+    path: _portfolio
+    name: Portfolio
+    icon: pergola
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  posts:
+    path: _posts
+    name: Posts
+    icon: event_available
+    disable_url: false
+    _inputs:
+      categories:
+        type: multiselect
+        options:
+          allow_create: true
+          empty_type: array
+          values: collections.posts[*].categories
+        cascade: true
+      tags:
+        type: multiselect
+        options:
+          allow_create: true
+          empty_type: array
+          values: collections.posts[*].tags
+        cascade: true
+    add_options:
+      - name: Add Post
+      - name: Add Draft
+        collection: drafts
+    create:
+      path: >-
+        [relative_base_path]/{date|year}-{date|month}-{date|day}-{title|slugify}.[ext]
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  publications:
+    path: _publications
+    name: Publications
+    icon: functions
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  talks:
+    path: _talks
+    name: Talks
+    icon: masks
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  teaching:
+    path: _teaching
+    name: Teaching
+    icon: healing
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data:
+    path: _data
+    name: Data
+    icon: data_usage
+    disable_url: true
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
+  data_comments_layout_comments:
+    path: _data/comments/layout-comments
+    name: Data Comments Layout Comments
+    icon: connect_without_contact
+    disable_url: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data_comments_markup_syntax_highlighting:
+    path: _data/comments/markup-syntax-highlighting
+    name: Data Comments Markup Syntax Highlighting
+    icon: format_ink_highlighter
+    disable_url: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data_comments_welcome_to_jekyll:
+    path: _data/comments/welcome-to-jekyll
+    name: Data Comments Welcome To Jekyll
+    icon: local_convenience_store
+    disable_url: true
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_snippets_imports:
+  jekyll: true
+timezone: Europe/London
+markdown:
+  engine: kramdown
+  options:
+    xhtml: false
+    breaks: false
+    linkify: false
+    typographer: true
+    quotes: ‘’“”
+    spaced_lists: false
+    sentence_per_line: false
+    gfm: true
+    code_block_fences: '```'
+    escape_snippets_in_code_blocks: false
+    treat_indentation_as_code: true
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: true
+    attributes: true
+    attribute_elements:
+      inline: right
+      block: below
+      tr: none
+      td: none
+      li: right-of-prefix
