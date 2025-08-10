@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -29,6 +28,12 @@ Professional Qualification
 * 2024-Present: Chartered Psychologist, The British Psychological Society
 * 2024-Present: Registered Polysomnographic Technologist (RPSGT), Board of Registered Polysomnographic Technologists
 
+Honours and Awards
+======
+* 2023: Young Investigator Award, World Sleep Congress 2023, World Sleep Society
+* 2021: Young Investigator Award, The 3rd Congress of Asian Society of Sleep Medicine, Asian Society of Sleep Medicine
+* 2018: Best Poster Award, CUHK SLEEP Conference 2018, Chinese University of Hong Kong
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -46,7 +51,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and Leadership
-======
-* Currently signed in to 43 different slack teams
