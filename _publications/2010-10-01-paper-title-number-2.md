@@ -4,8 +4,8 @@ title: >-
   Perspectives on Sleep and Circadian Interventions
 collection: publications
 category: manuscripts
-permalink: Cheung FTW, Li SX
-excerpt:
+permalink: 
+excerpt: **Forrest Tin Wai Cheung**, Shirley Xin Li
 date: 2010-10-01T00:00:00Z
 venue: Journal of the American Academy of Child and Adolescent Psychiatry
 slidesurl: 
