@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal academic webpage! I'm a postdoctoral reseracher at University of Oxford. I'm passionate about building knowledge that makes a real-world impact. Take a look around and feel free to reach out!
+### Hello
 
-# How I started
+Welcome to my personal academic webpage! I’m a postdoctoral reseracher in sleep medicine at University of Oxford, UK. I’m passionate about building knowledge that makes a real-world impact. Take a look around and feel free to reach out!
+
+### How I started
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website’s content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub’s servers free of charge.
 
