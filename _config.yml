@@ -3,7 +3,7 @@ site_theme: default
 title: Forrest Cheung, PhD
 title_separator: '-'
 name: Forrest Cheung
-description: 'Forrest Cheung's personal academic website'
+description: 'Forrest Cheung personal academic website'
 url: https://forrestcheungtw.github.io
 baseurl: ''
 repository: https://forrestcheungtw.github.io/
