@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* PhD in Sleep and Circadian Medicine, University of Hong Kong, 2022
-* BSocsc in Psychology and Counselling, University of Hong Kong, 2015
+* 2022, Ph.D in Sleep and Circadian Medicine, University of Hong Kong
+* 2015, BSoc.sc in Psychology and Counselling, University of Hong Kong
 
 Academic Appointment
 ======
@@ -25,8 +25,10 @@ Department of Psychology, University of Hong Kong
 
 Professional Qualification
 ======
-* 2024-Present: Chartered Psychologist, The British Psychological Society
-* 2024-Present: Registered Polysomnographic Technologist (RPSGT), Board of Registered Polysomnographic Technologists
+* 2024-Present: Chartered Psychologist
+  * The British Psychological Society
+* 2024-Present: Registered Polysomnographic Technologist (RPSGT)
+  * Board of Registered Polysomnographic Technologists
 
 Honours and Awards
 ======
