@@ -8,6 +8,6 @@ main:
   - title: Talks
     url: https://forrestcheungtw.github.io/talks/
   - title: News & Updates
-    url: https://forrestcheungtw.github.io/updates/
+    url: /updates/
   - title: Others
     url: /others/
