@@ -9,7 +9,7 @@ excerpt: '**Forrest Tin Wai Cheung**, Shirley Xin Li'
 date: 2024-08-14T00:00:00+01:00
 venue: Journal of the American Academy of Child and Adolescent Psychiatry
 slidesurl:
-paperurl: http://academicpages.github.io/files/paper2.pdf
+paperurl: /files/Cheung-2024-What Does the Future Ho.pdf
 citation: >-
   Cheung and Li. (2024). Journal of the American Academy of Child and Adolescent
   Psychiatry, S0890-8567(24), 1324-8
