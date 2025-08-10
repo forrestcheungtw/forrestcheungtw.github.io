@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: Welcome!!
+permalink: /home/
+title:
 author_profile: true
 redirect_from:
   - /about/
