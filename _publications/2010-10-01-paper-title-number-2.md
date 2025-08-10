@@ -6,7 +6,7 @@ collection: publications
 category: manuscripts
 permalink:
 excerpt: '**Forrest Tin Wai Cheung**, Shirley Xin Li'
-date: 2024-01-01T00:00:00Z
+date: 2024-08-14T00:00:00+01:00
 venue: Journal of the American Academy of Child and Adolescent Psychiatry
 slidesurl:
 paperurl: http://academicpages.github.io/files/paper2.pdf
