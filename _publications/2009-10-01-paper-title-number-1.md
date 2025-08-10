@@ -4,14 +4,11 @@ title: >-
   Cross-Lagged Panel Analysis
 collection: publications
 category: manuscripts
-permalink: cheung2024
-excerpt:
 date: 2024-10-10T00:00:00+01:00
 venue: Clocks & Sleep
-slidesurl:
-paperurl: /files/Cheung-2024-A Longitudinal Examination between.pdf
-bibtexurl:
+paperurl: "/files/Cheung-2024-A Longitudinal Examination between.pdf"
 citation: Cheung, F. T. W., Sit, H. F., Li, X., Chan, J. W. Y., Chan, N. Y., Wing, Y. K., & Li, S. X. (2024). A Longitudinal Examination between Chronotype and Insomnia in Youths: A Cross-Lagged Panel Analysis. Clocks & Sleep, 6(4), 557-567.
+
 ---
 ### **Authors**
 **Forrest Tin Wai Cheung**, Hao Fong Sit, Xiao Li, Joey Wing Yan Chan, Ngan Yin Chan, Yun Kwok Wing, Shirley Xin Li
