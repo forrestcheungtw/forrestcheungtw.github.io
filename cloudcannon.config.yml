@@ -125,6 +125,11 @@ collections_config:
     disable_file_actions: false
 _snippets_imports:
   jekyll: true
+file_config:
+  - glob:
+    _inputs:
+    _structures:
+    _select_data:
 timezone: Europe/London
 markdown:
   engine: kramdown
