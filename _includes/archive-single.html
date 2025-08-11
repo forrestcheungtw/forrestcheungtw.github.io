@@ -13,43 +13,35 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.25rem; margin-bottom: 2rem;">
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    {% if teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="{{ title }}" />
-      </div>
-    {% endif %}
-
-    <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-          <span class="sr-only">Permalink</span>
-        </a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% if teaser %}
+        <div style="margin-bottom: 1rem;">
+          <img 
+            src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: "/images/" | prepend: base_path }}{% endif %}" 
+            alt="{{ title }}" 
+            style="max-width: 100%; height: auto; border-radius: 6px;" />
+        </div>
       {% endif %}
-    </h3>
 
-    {% if post.date %}
-      <p class="page__date">
-        <strong>
-          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
-          {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
-        </strong>
-        <time datetime="{{ post.date | date_to_xmlschema }}">
-          {{ post.date | date: "%B %d, %Y" }}
-        </time>
-      </p>
-    {% endif %}
+      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom: 0.5rem;">
+        <a href="{{ base_path }}{{ post.url }}" style="text-decoration: none; color: #007acc;">
+          {{ title }}
+        </a>
+      </h3>
 
-  </article>
+      {% if post.date %}
+        <p class="page__date" style="font-size: 0.9rem; color: #666;">
+          <strong>
+            <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:
+          </strong>
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%B %d, %Y" }}
+          </time>
+        </p>
+      {% endif %}
+
+    </article>
+  </div>
 </div>

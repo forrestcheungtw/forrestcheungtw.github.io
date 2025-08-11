@@ -1,13 +1,11 @@
 ---
-title: I’m attending World Sleep Congress 2025
+title: My offical start day at Oxford
 date: 2025-07-29T00:00:00Z
 permalink:
 tags:
   - conference
   - travel
   - shift work
-header:
-  teaser: /uploads/news-20250729.png
 ---
 ## I’m attending World Sleep Congress 2025
 
