@@ -11,7 +11,7 @@ citation: >-
 ---
 ### Authors
 
-Cheng Qijin, **Cheung Forrest T.W.**
+> Cheng Qijin, **Cheung Forrest T.W.**
 
 ### Abstract
 
