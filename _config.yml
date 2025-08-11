@@ -3,7 +3,7 @@ site_theme: default
 title: Forrest Cheung, PhD
 title_separator: '-'
 name: Forrest Cheung
-description: 'Forrest Cheung personal academic website'
+description: 'Forrest Cheung person webpage'
 url: https://forrestcheungtw.github.io
 baseurl: ''
 repository: https://forrestcheungtw.github.io/
@@ -11,7 +11,7 @@ author:
   avatar: profile.png
   name: Forrest TW Cheung
   pronouns:
-  bio: Research Psychologist | Sleep Scientist
+  bio: Research psychologist | Sleep scientist
   location: Oxford, United Kingdom
   employer: University of Oxford
   uri: https://www.ndcn.ox.ac.uk/team/forrest-tin-wai-cheung
