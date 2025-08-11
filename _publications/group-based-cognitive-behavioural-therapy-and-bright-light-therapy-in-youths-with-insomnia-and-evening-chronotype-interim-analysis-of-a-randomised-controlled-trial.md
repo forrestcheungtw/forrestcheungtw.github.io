@@ -4,7 +4,7 @@ title: >-
   with Insomnia and Evening Chronotype: Interim Analysis of a Randomised
   Controlled Trial.
 collection: publications
-category: conference
+category: conferences
 date: 2017-01-01T00:00:00+01:00
 venue: Sleep Medicine
 paperurl:
