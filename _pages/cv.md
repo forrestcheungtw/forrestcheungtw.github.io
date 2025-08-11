@@ -17,11 +17,13 @@ Academic Appointment
 ======
 * 2024-Present: Postdoctoral Research Associate in Sleep Medicine
   * Sir Jules Thorn Sleep & Circadian Neuroscience Institute, 
-Nuffield Department of Clinical Neurosciences, University of Oxford
+  Nuffield Department of Clinical Neurosciences,
+  University of Oxford
 
 * 2022-2024: Postdoctoral Research Fellow
   * State Key Laboratory of Brain and Cognitive Sciences,
-Department of Psychology, University of Hong Kong
+  Department of Psychology
+  University of Hong Kong
 
 Professional Qualification
 ======
