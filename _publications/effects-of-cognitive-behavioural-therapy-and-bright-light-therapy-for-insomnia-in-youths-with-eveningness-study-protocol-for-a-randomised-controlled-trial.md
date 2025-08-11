@@ -4,17 +4,16 @@ title: >-
   in youths with eveningness: study protocol for a randomised controlled trial
 collection: publications
 category: manuscripts
-permalink:
-excerpt: >-
-  Shirley Xin Li, **Forrest Tin Wai Cheung**, Ngan Yin Chan, Joey Wing Yan Chan,
-  Jihui Zhang, Albert Martin Li, Colin A. Espie, Michael Gradisar, & Yun-Kwok
-  Wing 
 date: 2024-04-09T00:00:00+01:00
 venue: Trials
-slidesurl:
-paperurl: /files/Li-2024-Effects of cognitive behavioural thera.pdf
-citation: Li, Cheung et al. (2024). Trials, 25(1), 246
+paperurl: "/files/Li-2024-Effects of cognitive behavioural thera.pdf"
+citation: "Li, S. X., Cheung, F. T. W., Chan, N. Y., Chan, J. W. Y., Zhang, J., Li, A. M., ... & Wing, Y. K. (2024). Effects of cognitive behavioural therapy and bright light therapy for insomnia in youths with eveningness: Study protocol for a randomised controlled trial. Trials, 25(1), 246."
 ---
+### **Authors**
+Shirley Xin Li#, **Forrest Tin Wai Cheung**#, Ngan Yin Chan, Joey Wing Yan Chan, Jihui Zhang, Albert Martin Li, Colin A. Espie, Michael Gradisar, Yun-Kwok Wing
+
+#Contributed equally to this work.
+
 ### **Abstract**
 
 **Background<br>**Insomnia and eveningness are common and often comorbid conditions in youths. While cognitive behavioural therapy for insomnia (CBT-I) has been suggested as a promising intervention, it remains unclear whether it is sufficient to also address circadian issues in youths. In addition, despite that light has been shown to be effective in phase-shifting one’s circadian rhythm, there has been limited data on the effects of bright light therapy and its combination with CBT-I on sleep and circadian outcomes in youths. The current protocol outlines a randomised controlled trial that examines the efficacy of CBT-I and CBT-I plus bright light therapy (BLT) in reducing insomnia severity, improving mood symptoms and daytime functioning (e.g. sleepiness, fatigue, cognitive function), and improving subjective and objective sleep and circadian measures compared to a waitlist control group.
