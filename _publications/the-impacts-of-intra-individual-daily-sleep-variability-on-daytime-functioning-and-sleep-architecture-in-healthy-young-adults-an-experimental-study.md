@@ -1,0 +1,16 @@
+---
+title: >-
+  The impacts of intra-individual daily sleep variability on daytime functioning and sleep architecture in healthy young adults: An experimental study
+collection: publications
+category: manuscripts
+date: 2023-06-27T00:00:00+01:00
+venue: Journal of Sleep Research
+paperurl:
+citation: >-
+  Sun, W., Cheung, F. T. W., Chan, N. Y., Zhang, J., Chan, J. W. Y., Chan, K. C. C., Wing, Y. K., & Li, S. X. (2024). The impacts of intra-individual daily sleep variability on daytime functioning and sleep architecture in healthy young adults: An experimental study. Journal of sleep research, 33(3), e13967. https://doi.org/10.1111/jsr.13967
+---
+### Authors
+Wanqi Sun, **Forrest Tin Wai Cheung**, Ngan Yin Chan, Jihui Zhang, Joey Wing Yan Chan, Kate Ching Ching Chan, Yun Kwok Wing, Shirley Xin Li
+
+### Abstract
+Sleep variability is commonly seen in the young populations. This study aimed to examine the impacts of experimentally induced sleep variability on sleepiness, mood, cognitive performance and sleep architectures among young adults. Thirty-six healthy individuals (aged 18–22 years) were randomly assigned to either variable sleep schedule (n = 20) or control (n = 16) groups. The protocol involved 1 week of regular sleep (time in bed = 7.5 hr) in the home setting, followed by one adaptation night (time in bed = 7.5 hr), one baseline night (time in bed = 7.5 hr), and 6 nights of sleep manipulation in the laboratory monitored by polysomnography (three cycles of variable sleep schedule by changing daily time in bed alternating between 6 hr and 9 hr for variable sleep schedule group versus fixed sleep schedule with daily time in bed for 7.5 hr for control group). Sleepiness, mood, sustained attention, processing speed, response inhibition and working memory were measured every morning and evening. The variable sleep schedule group reported a higher level of sleepiness, especially in the mornings, and increased negative mood in the evenings. There were no significant differences in positive mood, cognitive performance and sleep macro- and micro-structures. Our results showed the negative effects of sleep variability on daytime functioning especially sleepiness and negative mood, suggesting the need to address variable sleep schedules through sleep intervention.
