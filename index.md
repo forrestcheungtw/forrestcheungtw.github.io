@@ -10,13 +10,14 @@ redirect_from:
 
 <div style="text-align: justify;">
 
-  <p>I’m Forrest — a postdoctoral researcher in sleep medicine at the University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living.</p>
+  <p>I’m Forrest, a postdoctoral researcher in sleep medicine at the <a href="https://www.scni.ox.ac.uk/research/experimental-and-clinical-sleep-medicine-group" target="_blank" rel="noopener noreferrer">Experimental and Clinical Sleep Medicine group</a>, part of the <a href="https://www.scni.ox.ac.uk/" target="_blank" rel="noopener noreferrer">Sir Jules Thorn Sleep and Circadian Neuroscience Institute</a> at the University of Oxford.</p>
 
-  <p>More than that, I’m driven by a real interest in how the body’s internal clock affects mental health, especially in more vulnerable populations.</p>
+  <p>I’ve always been one of those people who naturally leans toward late nights, which is probably what first got me curious about how and why our sleep patterns differ. That curiosity turned into a research focus on adolescents with evening chronotypes - young people who, like me, tend to feel most awake at night.</p>
 
-  <p>I created this site as a place to share a bit about what I’m working on. Please take a look around, and feel free to get in touch if anything sparks your interest.</p>
+  <p>This site is a space to share what I’m working on and connect with others interested in sleep, circadian rhythms, and mental health. Have a look through and feel free to reach out if something resonates.</p>
 
 </div>
+
 
 ---
 
@@ -50,7 +51,7 @@ redirect_from:
 
 ---
 
-## 🧬 My Academic Journey
+## 😴 My Academic Journey
 
 <div style="text-align: justify;">
 
