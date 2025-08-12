@@ -1,16 +1,18 @@
 ---
 title: >-
-  Factors influencing the adherence to Bright Light Therapy in youths with insomnia and eveningness: A mixed-methods study
+  Factors influencing the adherence to Bright Light Therapy in youths with
+  insomnia and eveningness: A mixed-methods study
 collection: publications
 category: conferences
 date: 2024-02-01T00:00:00+01:00
 venue: World Sleep 2023 - Rio de Janeiro, Brazil
 paperurl:
 citation: >-
-  Cheung, F. T. W., Chan, N. Y., Chan, J. W. Y., Wong, W. T. Y., Lee, M. P. Y., Sit, H. F., ... & Li, S. X. (2024). Factors influencing the adherence to Bright Light Therapy in youths with insomnia and eveningness: a mixed-methods study. Sleep Medicine, 115, S55-S56.
+  Cheung, F. T. W., Chan, N. Y., Chan, J. W. Y., Wong, W. T. Y., Lee, M. P. Y.,
+  Sit, H. F., ... & Li, S. X. (2024). Factors influencing the adherence to
+  Bright Light Therapy in youths with insomnia and eveningness: a mixed-methods
+  study. Sleep Medicine, 115, S55-S56.
 ---
-### Authors
-
 > **Forrest Tin Wai Cheung**, Ngan Yin Chan, Joey Wing Yan Chan, Winifred Tsz Yu Wong, Michelle Pui Yan Lee, Hao Fong Sit, Rachel Ran Wang, Jihui Zhang, Albert Martin Li, Colin A. Espie, Michael Gradisar, Yun-Kwok Wing, Shirley Xin Li
 
 ### Abstract
