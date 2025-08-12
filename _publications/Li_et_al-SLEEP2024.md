@@ -1,15 +1,16 @@
 ---
 title: >-
-  The Mediating Role of Emotional and Behavioral Problems Between Nightmares and Suicidality in Adolescents
+  The Mediating Role of Emotional and Behavioral Problems Between Nightmares and
+  Suicidality in Adolescents
 collection: publications
 category: conferences
 date: 2024-04-20T00:00:00+01:00
 venue: SLEEP 2024 - Houston, United States
 citation: >-
-  Li, Y., Sit, H. F., Cheung, F. T. W., & Li, S. X. (2024). The Mediating Role of Emotional and Behavioral Problems Between Nightmares and Suicidality in Adolescents. Sleep, 47(Supplement_1), A404.
+  Li, Y., Sit, H. F., Cheung, F. T. W., & Li, S. X. (2024). The Mediating Role
+  of Emotional and Behavioral Problems Between Nightmares and Suicidality in
+  Adolescents. Sleep, 47(Supplement_1), A404.
 ---
-### Authors
-
 > You Li , Hao Fong Sit, **Forrest Tin Wai Cheung**, Shirley Xin Li
 
 ### Abstract

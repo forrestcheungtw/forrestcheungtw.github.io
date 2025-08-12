@@ -13,8 +13,6 @@ citation: >-
   Insomnia in Adolescents: A Qualitative Analysis. Sleep, 48(Supplement_1),
   A250.
 ---
-### Authors
-
 > Hao Fong Sit, Rachel Ran Wang, **Forrest Tin Wai Cheung**, Ngan-yin Chan, Joey Chan, Jihui Zhang, Albert Martin Li, Yun-Kwok Wing, Colin Espie, Shirley Xin Li
 
 ### Abstract

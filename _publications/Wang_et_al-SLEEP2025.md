@@ -11,8 +11,6 @@ citation: >-
   Li, S. X. (2025). Sleep-wake State Discrepancy and Circadian-related
   Characteristics in Youth with Insomnia. Sleep, 48(Supplement_1), A10-A11.
 ---
-### Authors
-
 > Rachel Ran Wang, **Forrest Tin Wai Cheung**, Xiao Li, Ngan Yin Chan, Joey Chan, Yun-Kwok Wing, Shirley Xin Li
 
 ### Abstract
