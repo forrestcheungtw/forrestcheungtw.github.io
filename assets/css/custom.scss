@@ -42,3 +42,38 @@
   padding: 1.5rem;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
 }
+
+.page__share-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+.share-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.9rem;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.2s ease;
+  border: none;
+  cursor: pointer;
+}
+
+.btn i {
+  margin-right: 0.4rem;
+}
+
+.btn--facebook    { background: #3b5998; color: #fff; }
+.btn--linkedin    { background: #0077b5; color: #fff; }
+.btn--twitter     { background: #1da1f2; color: #fff; }
+.btn--whatsapp    { background: #25d366; color: #fff; }
+.btn--email       { background: #555;     color: #fff; }
+.btn--copy        { background: #6c757d;  color: #fff; }

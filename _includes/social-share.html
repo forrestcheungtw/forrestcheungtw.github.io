@@ -1,23 +1,48 @@
 {% include base_path %}
 
 <section class="page__share">
-  {% if site.data.ui-text[site.locale].share_on_label %}
-    <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
-  {% endif %}
+  <h4 class="page__share-title">
+    {{ site.data.ui-text[site.locale].share_on_label | default: "Share this page:" }}
+  </h4>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="Share on Facebook">
-    <i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span>
-  </a>
+  <div class="share-buttons">
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}"
+       class="btn btn--facebook" target="_blank" rel="noopener" title="Share on Facebook">
+      <i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span>
+    </a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="Share on LinkedIn">
-    <i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
-  </a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}"
+       class="btn btn--linkedin" target="_blank" rel="noopener" title="Share on LinkedIn">
+      <i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span>
+    </a>
 
-  <a href="https://api.whatsapp.com/send?text={{ base_path }}{{ page.url }}" class="btn btn--whatsapp" title="Share on WhatsApp">
-    <i class="fab fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span>
-  </a>
+    <a href="https://twitter.com/intent/tweet?url={{ base_path }}{{ page.url }}&text={{ page.title | url_encode }}"
+       class="btn btn--twitter" target="_blank" rel="noopener" title="Share on Twitter">
+      <i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span>
+    </a>
 
-  <a href="mailto:?subject=Check this out&body={{ base_path }}{{ page.url }}" class="btn btn--email" title="Share via Email">
-    <i class="fa fa-envelope" aria-hidden="true"></i><span> Email</span>
-  </a>
+    <a href="https://api.whatsapp.com/send?text={{ base_path }}{{ page.url }}"
+       class="btn btn--whatsapp" target="_blank" rel="noopener" title="Share on WhatsApp">
+      <i class="fab fa-whatsapp" aria-hidden="true"></i><span> WhatsApp</span>
+    </a>
+
+    <a href="mailto:?subject=Check this out&body={{ base_path }}{{ page.url }}"
+       class="btn btn--email" title="Share via Email">
+      <i class="fa fa-envelope" aria-hidden="true"></i><span> Email</span>
+    </a>
+
+    <button class="btn btn--copy" onclick="copyToClipboard('{{ base_path }}{{ page.url }}')">
+      <i class="fa fa-link" aria-hidden="true"></i><span> Copy Link</span>
+    </button>
+  </div>
 </section>
+
+<script>
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(function () {
+      alert('Link copied to clipboard!');
+    }, function () {
+      alert('Failed to copy link.');
+    });
+  }
+</script>
