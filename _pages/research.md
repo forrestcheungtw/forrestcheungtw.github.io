@@ -12,24 +12,26 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 
 <div class="research-grid">
 
-### 🕒 Shift Work & Circadian Disruption
-**Behavioural Sleep Intervention for NHS Shift Workers**  
-_University of Oxford_  
-I’m developing and testing a behavioural intervention tailored to **shift work disorder** in UK NHS healthcare workers. The approach blends circadian-based strategies with behavioral techniques to help individuals adapt to irregular shift schedules, aiming to enhance sleep quality and overall well‑being.
+<div>
+<h3>🕒 Shift Work & Circadian Disruption</h3>
+<p><strong>Behavioural Sleep Intervention for NHS Shift Workers</strong><br/>
+<em>University of Oxford</em><br/>
+I’m developing and testing a behavioural intervention tailored to <strong>shift work disorder</strong> in UK NHS healthcare workers. The approach blends circadian-based strategies with behavioral techniques to help individuals adapt to irregular shift schedules, aiming to enhance sleep quality and overall well‑being.</p>
+</div>
 
----
+<div>
+<h3>🌙 Youth Sleep & Chronotype</h3>
+<p><strong>CBT‑I with Bright Light Therapy for Eveningness</strong><br/>
+<em>University of Hong Kong</em><br/>
+I contributed equally to a randomized controlled trial of <strong>cognitive behavioural therapy for insomnia (CBT‑I)</strong>, with and without <strong>bright light therapy</strong>, targeting youths with insomnia and an evening chronotype. We’re evaluating outcomes on sleep, mood, and objective circadian markers.</p>
+</div>
 
-### 🌙 Youth Sleep & Chronotype
-**CBT‑I with Bright Light Therapy for Eveningness**  
-_University of Hong Kong_  
-I contributed equally to a randomized controlled trial of **cognitive behavioural therapy for insomnia (CBT‑I)**, with and without **bright light therapy**, targeting youths with insomnia and an evening chronotype. We’re evaluating outcomes on sleep, mood, and objective circadian markers.
-
----
-
-### 🧠 Cognition & Circadian Disorders in Adolescents
-**Cognitive and Behavioral Factors in DSWPD and Insomnia**  
-_University of Hong Kong_  
-This work compares **delayed sleep‑wake phase disorder (DSWPD)** and chronic insomnia in adolescents. We identified shared cognitive-behavioral characteristics — including hyperarousal, maladaptive sleep beliefs, and high sleep reactivity — offering insights into overlapping treatment targets.
+<div>
+<h3>🧠 Cognition & Circadian Disorders in Adolescents</h3>
+<p><strong>Cognitive and Behavioral Factors in DSWPD and Insomnia</strong><br/>
+<em>University of Hong Kong</em><br/>
+This work compares <strong>delayed sleep‑wake phase disorder (DSWPD)</strong> and chronic insomnia in adolescents. We identified shared cognitive-behavioral characteristics — including hyperarousal, maladaptive sleep beliefs, and high sleep reactivity — offering insights into overlapping treatment targets.</p>
+</div>
 
 </div>
 
