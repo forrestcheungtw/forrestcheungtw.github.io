@@ -14,7 +14,7 @@ My research centres on **behavioral sleep and circadian medicine**, both in term
 - **CBT‑I combined with bright light therapy for youths with eveningness** - _University of Hong Kong_
   I contributed equally to a study involving a randomized controlled trial of **cognitive behavioural therapy for insomnia (CBT‑I)**, both alone and in combination with **bright light therapy**, targeting youths experiencing insomnia and evening chronotype. The trial examines effects on insomnia severity, mood, daytime functioning, and objective circadian and sleep measures.
 
-- **Cognitive and behavioral factors in adolescent DSWPD and insomnia** - _University of Hong Kong_ 
+- **Cognitive and behavioral factors in adolescent DSWPD and insomnia** - _University of Hong Kong_
   In work examining **delayed sleep‑wake phase disorder (DSWPD)** versus chronic insomnia in youth, we identified shared cognitive-behavioral characteristics—such as hyperarousal, dysfunctional sleep beliefs, poor sleep hygiene, and sleep reactivity—highlighting vital targets for intervention.
 
 Feel free to browse my [publications](/publications/) for more details.
