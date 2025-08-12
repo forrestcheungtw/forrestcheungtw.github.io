@@ -5,38 +5,64 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hello!
 
-I’m Forrest. I’m a postdoctorial researcher in sleep medicine at the University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living. But more than that, I’m driven by a real interest in how sleep the body’s internal clock affects mental health, especially in more vulnerable populations.
+<div style="text-align: justify;">
+
+I’m Forrest — a postdoctoral researcher in sleep medicine at the <a href="https://www.scni.ox.ac.uk/research/experimental-and-clinical-sleep-medicine-group/" target="_blank">Experimental and Clinical Sleep Medicine</a> group at University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living. More than that, I’m interested in how people's sleep and their internal clock affects mental health, especially in more vulnerable populations.
 
 I created this site as a place to share a bit about what I’m working on. Please take a look around, and feel free to get in touch if anything sparks your interest.
 
-### Research Focus
+</div>
 
-* Adolescence mental health
-* Chronotheraputics
-* Shift work
-* Sleep and circadian rhythem
-* Sleep interventions
+---
 
-### Methodology
+## 🧠 Research Focus & 🧪 Methodology
 
-* Actigraphy
-* Meta-analysis
-* Melatonin assessment
-* Polysomnography (PSG) / EEG
-* Randomised control trial (RCT)
+<div style="display: flex; gap: 4%; flex-wrap: wrap; margin-top: 1rem;">
 
-### My academic journey
+<div style="flex: 1; min-width: 240px;">
+<h3>Research Focus</h3>
+<ul>
+  <li>Adolescence mental health</li>
+  <li>Chronotherapeutics</li>
+  <li>Shift work</li>
+  <li>Sleep and circadian rhythm</li>
+  <li>Sleep interventions</li>
+</ul>
+</div>
 
-Like many people, my first real encounter with academic research was during my undergraduate dissertation. I joined the Psychosis Lab, where I worked on a project looking at how working memory is affected in people with psychosis proneness. I found the whole process of asking questions and trying to figure out the answers genuinely fascinating.
+<div style="flex: 1; min-width: 240px;">
+<h3>Methodology</h3>
+<ul>
+  <li>Actigraphy</li>
+  <li>Meta-analysis</li>
+  <li>Melatonin assessment</li>
+  <li>Polysomnography (PSG) / EEG</li>
+  <li>Randomised control trial (RCT)</li>
+</ul>
+</div>
 
-After graduating, I applied to a few research assistant jobs and eventually took on a role as a project manager at the [Centre for Suicide Research and Prevention](https://csrp.hku.hk/) at HKU. I worked on projects exploring protective factors against suicide, as well as analysis the content of suicide notes. It was important work, but to be honest, it wasn’t the happiest job in the world — so after about a year and a half, I decided to step away.
+</div>
 
-I spent some time abroad, enjoying life, and thinking seriously about what I wanted to do next. In early 2018, I applied for a PhD and ended up joining the [Sleep Research Clinic and Laboratory](https://sleep.hku.hk/) at HKU, under the guidance of Prof. Shirley Li. I was also lucky to have opportunities to collaborate with colleagues at the [Li Chiu Kong Family Sleep Assessment Unit](https://www.psychiatry.cuhk.edu.hk/sau/sleep-assessment-unit/) at CUHK. That’s where my journey into sleep and circadian research really began.
+---
 
-My doctoral work focused on how circadian rhythms contribute to insomnia in adolescents and explored the use of bright light therapy as a potential treatment for those who tend to sleep late and struggle with insomnia. During this time, I became increasingly interested in the broader role of circadian rhythms, not just in sleep, but in things like diet, daily functioning, and overall health. That curiosity about how misaligned body clocks affect well-being is what brings me to my current work!
+## 🧬 My Academic Journey
 
-### Contact Me
+<div style="text-align: justify;">
 
-If you have any questions, suggestions, or just want to chat about sleep research especially if you’re interested in my work or exploring a potential collaboration, feel free to reach out: [forrestcheungtw@gmail.com](mailto:forrestcheungtw@gmail.com).
+Like many people, my first real encounter with academic research was during my undergraduate dissertation. I joined the Psychosis Lab, where I worked on a project looking at how working memory is affected in people with psychosis proneness.  
+
+After graduating, I applied to a few research assistant jobs and eventually took on a role as a project manager at the <a href="https://csrp.hku.hk/" target="_blank">Centre for Suicide Research and Prevention</a> at HKU. I worked on projects exploring protective factors against suicide, as well as analyzing the content of suicide notes. It was important work, but not the happiest job in the world — so after about a year and a half, I decided to step away.
+
+I spent some time abroad, enjoying life, and thinking seriously about what I wanted to do next. In early 2018, I applied for a PhD and joined the <a href="https://sleep.hku.hk/" target="_blank">Sleep Research Clinic and Laboratory</a> at HKU, under the guidance of Prof. Shirley Li. I was also lucky to collaborate with the <a href="https://www.psychiatry.cuhk.edu.hk/sau/sleep-assessment-unit/" target="_blank">Li Chiu Kong Family Sleep Assessment Unit</a> at CUHK.
+
+My doctoral work focused on how circadian rhythms contribute to insomnia in adolescents and explored bright light therapy as a treatment for delayed sleep phase. During this time, I became increasingly interested in how misaligned body clocks affect not just sleep, but also diet, functioning, and overall health — which brings me to my current work!
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+If you’d like to chat about sleep research or collaboration, feel free to reach out:  
+📧 <a href="mailto:forrestcheungtw@gmail.com">forrestcheungtw@gmail.com</a>
