@@ -6,11 +6,15 @@ redirect_from:
   - /about.html
 ---
 
+# Hello there!
+
 <div style="text-align: justify;">
 
-I’m Forrest — a postdoctoral researcher in sleep medicine at the <a href="https://www.scni.ox.ac.uk/research/experimental-and-clinical-sleep-medicine-group/" target="_blank">Experimental and Clinical Sleep Medicine</a> group at University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living. More than that, I’m interested in how people's sleep and their internal clock affects mental health, especially in more vulnerable populations.
+  <p>I’m Forrest — a postdoctoral researcher in sleep medicine at the University of Oxford. I’ve always been a bit of a night owl, which probably explains how I ended up researching sleep for a living.</p>
 
-I created this site as a place to share a bit about what I’m working on. Please take a look around, and feel free to get in touch if anything sparks your interest.
+  <p>More than that, I’m driven by a real interest in how the body’s internal clock affects mental health, especially in more vulnerable populations.</p>
+
+  <p>I created this site as a place to share a bit about what I’m working on. Please take a look around, and feel free to get in touch if anything sparks your interest.</p>
 
 </div>
 
@@ -18,29 +22,29 @@ I created this site as a place to share a bit about what I’m working on. Pleas
 
 ## 🧠 Research Focus & 🧪 Methodology
 
-<div style="display: flex; gap: 4%; flex-wrap: wrap; margin-top: 1rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1rem;">
 
-<div style="flex: 1; min-width: 240px;">
-<h3>Research Focus</h3>
-<ul>
-  <li>Adolescence mental health</li>
-  <li>Chronotherapeutics</li>
-  <li>Shift work</li>
-  <li>Sleep and circadian rhythm</li>
-  <li>Sleep interventions</li>
-</ul>
-</div>
+  <div style="flex: 1 1 300px;">
+    <h3>Research Focus</h3>
+    <ul>
+      <li>Adolescence mental health</li>
+      <li>Chronotherapeutics</li>
+      <li>Shift work</li>
+      <li>Sleep and circadian rhythm</li>
+      <li>Sleep interventions</li>
+    </ul>
+  </div>
 
-<div style="flex: 1; min-width: 240px;">
-<h3>Methodology</h3>
-<ul>
-  <li>Actigraphy</li>
-  <li>Meta-analysis</li>
-  <li>Melatonin assessment</li>
-  <li>Polysomnography (PSG) / EEG</li>
-  <li>Randomised control trial (RCT)</li>
-</ul>
-</div>
+  <div style="flex: 1 1 300px;">
+    <h3>Methodology</h3>
+    <ul>
+      <li>Actigraphy</li>
+      <li>Meta-analysis</li>
+      <li>Melatonin assessment</li>
+      <li>Polysomnography (PSG) / EEG</li>
+      <li>Randomised control trial (RCT)</li>
+    </ul>
+  </div>
 
 </div>
 
@@ -50,13 +54,13 @@ I created this site as a place to share a bit about what I’m working on. Pleas
 
 <div style="text-align: justify;">
 
-Like many people, my first real encounter with academic research was during my undergraduate dissertation. I joined the Psychosis Lab, where I worked on a project looking at how working memory is affected in people with psychosis proneness.  
+  <p>Like many people, my first real encounter with academic research was during my undergraduate dissertation. I joined the Psychosis Lab, where I worked on a project looking at how working memory is affected in people with psychosis proneness.</p>
 
-After graduating, I applied to a few research assistant jobs and eventually took on a role as a project manager at the <a href="https://csrp.hku.hk/" target="_blank">Centre for Suicide Research and Prevention</a> at HKU. I worked on projects exploring protective factors against suicide, as well as analyzing the content of suicide notes. It was important work, but not the happiest job in the world — so after about a year and a half, I decided to step away.
+  <p>After graduating, I applied to a few research assistant jobs and eventually took on a role as a project manager at the <a href="https://csrp.hku.hk/" target="_blank">Centre for Suicide Research and Prevention</a> at HKU. I worked on projects exploring protective factors against suicide, as well as analyzing the content of suicide notes. It was important work, but not the happiest job in the world — so after about a year and a half, I decided to step away.</p>
 
-I spent some time abroad, enjoying life, and thinking seriously about what I wanted to do next. In early 2018, I applied for a PhD and joined the <a href="https://sleep.hku.hk/" target="_blank">Sleep Research Clinic and Laboratory</a> at HKU, under the guidance of Prof. Shirley Li. I was also lucky to collaborate with the <a href="https://www.psychiatry.cuhk.edu.hk/sau/sleep-assessment-unit/" target="_blank">Li Chiu Kong Family Sleep Assessment Unit</a> at CUHK.
+  <p>I spent some time abroad, enjoying life, and thinking seriously about what I wanted to do next. In early 2018, I applied for a PhD and joined the <a href="https://sleep.hku.hk/" target="_blank">Sleep Research Clinic and Laboratory</a> at HKU, under the guidance of Prof. Shirley Li. I was also lucky to collaborate with the <a href="https://www.psychiatry.cuhk.edu.hk/sau/sleep-assessment-unit/" target="_blank">Li Chiu Kong Family Sleep Assessment Unit</a> at CUHK.</p>
 
-My doctoral work focused on how circadian rhythms contribute to insomnia in adolescents and explored bright light therapy as a treatment for delayed sleep phase. During this time, I became increasingly interested in how misaligned body clocks affect not just sleep, but also diet, functioning, and overall health — which brings me to my current work!
+  <p>My doctoral work focused on how circadian rhythms contribute to insomnia in adolescents and explored bright light therapy as a treatment for delayed sleep phase. During this time, I became increasingly interested in how misaligned body clocks affect not just sleep, but also diet, functioning, and overall health — which brings me to my current work!</p>
 
 </div>
 
@@ -64,5 +68,7 @@ My doctoral work focused on how circadian rhythms contribute to insomnia in adol
 
 ## 📬 Contact Me
 
-If you’d like to chat about sleep research or collaboration, feel free to reach out:  
-📧 <a href="mailto:forrestcheungtw@gmail.com">forrestcheungtw@gmail.com</a>
+<div style="text-align: justify;">
+  <p>If you’d like to chat about sleep research or collaboration, feel free to reach out:  
+  📧 <a href="mailto:forrestcheungtw@gmail.com">forrestcheungtw@gmail.com</a></p>
+</div>
