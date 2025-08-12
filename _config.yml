@@ -3,7 +3,7 @@ site_theme: default
 title: "Forrest Cheung, PhD"
 title_separator: '-'
 name: Forrest Cheung
-description: "Sleep and Mental Health Researcher"
+description: "Research Psychologist | Sleep and Circadian Researcher"
 url: https://forrestcheungtw.github.io
 baseurl: ''
 repository: https://forrestcheungtw.github.io/
@@ -42,7 +42,7 @@ author:
   keybase:
   instagram:
   lastfm:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/forrestcheung/
   mastodon:
   medium:
   pinterest:
