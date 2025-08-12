@@ -1,12 +1,13 @@
 ---
 permalink:
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# Hello there!
+# 👋🏼 Hello there!
 
 <div style="text-align: justify;">
 
