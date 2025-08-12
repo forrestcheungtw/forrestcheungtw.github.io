@@ -4,13 +4,13 @@ title: >-
   Adolescents: A Qualitative Analysis
 collection: publications
 category: conferences
-date: 2017-01-01T00:00:00+01:00
+date: 2025-05-19T00:00:00+01:00
 venue: SLEEP 2025 - Seattle, United States
 paperurl:
 citation: >-
   Sit, H. F., Wang, R. R., Cheung, F. T. W., Chan, N. Y., Chan, J., Zhang, J.,
-  ... & Li, S. (2025). Treatment Engagement of Cognitive Behavioral Therapy
-  for Insomnia in Adolescents: A Qualitative Analysis. Sleep, 48(Supplement_1),
+  ... & Li, S. (2025). Treatment Engagement of Cognitive Behavioral Therapy for
+  Insomnia in Adolescents: A Qualitative Analysis. Sleep, 48(Supplement_1),
   A250.
 ---
 ### Authors
