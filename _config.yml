@@ -3,7 +3,7 @@ site_theme: default
 title: "Forrest Cheung, PhD"
 title_separator: '-'
 name: Forrest Cheung
-description: "Research psychologist focused on sleep and circadian science, with a particular interest in how biological rhythms and sleep patterns interact with mental health"
+description: "Research psychologist with a focus on behavioural sleep and circadian medicine"
 url: https://forrestcheungtw.github.io
 baseurl: ''
 repository: https://forrestcheungtw.github.io/
@@ -115,7 +115,7 @@ facebook:
   app_id:
   publisher:
 og_image:
-og_description: Research psychologist focused on sleep and circadian science, with a particular interest in how biological rhythms and sleep patterns interact with mental health.
+og_description: Research psychologist with a focus on behavioural sleep and circadian medicine.
 social:
   type: Person
   name: Forrest Cheung
