@@ -124,9 +124,9 @@ social:
     - https://scholar.google.com/citations?user=67fQKaUAAAAJ&hl
     - https://www.linkedin.com/in/forrestcheung/
 analytics:
-  provider: 'false'
+  provider: google
   google:
-    tracking_id:
+    tracking_id: G-2J9340W2YW
 include:
   - .htaccess
   - _pages
