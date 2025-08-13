@@ -114,7 +114,7 @@ facebook:
   username:
   app_id:
   publisher:
-og_image:
+og_image: /images/og-default.png
 og_description: Research psychologist with a focus on behavioural sleep and circadian medicine.
 social:
   type: Person
