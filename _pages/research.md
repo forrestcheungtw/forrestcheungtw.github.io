@@ -12,7 +12,6 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 
 <div class="project-block">
 <h3>Developing a Behavioural Sleep Intervention for NHS Shift Workers</h3>
-<em>at University of Oxford</em><br/>
   <p>
     I’m developing and testing a behavioural intervention tailored to <strong>shift work disorder</strong> in UK NHS healthcare workers. The approach combines circadian-based strategies such as bright light therpay with behavioral techniques borrowed from CBT-I to help individuals adapt to irregular shift schedules, aiming to enhance sleep quality and overall well‑being.
   </p>
@@ -20,7 +19,6 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 
 <div class="project-block">
 <h3>Efficacy of CBT‑I with Bright Light Therapy for Youths with Insomnia and Evening Chronotype</h3>
-<em>at University of Hong Kong</em><br/>
   <p>
      This project is a randomized controlled trial investigating the effectiveness of <strong>cognitive behavioural therapy for insomnia (CBT‑I)</strong>, with and without the addition of <strong>bright light therapy</strong>, in youths with insomnia and an evening chronotype. The study evaluates outcomes related to sleep, circadian characteristics, mood, and objective circadian rhythm markers (i.e., DLMO).
   </p>
@@ -28,7 +26,6 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 
 <div class="project-block">
 <h3>The Role of Circadian Characteristics in Adolescents with Insomnia</h3>
-<em>at University of Hong Kong</em><br/>
   <p>
   As part of my doctoral thesis, I investigated the circadian characteristics of <strong>delayed sleep–wake phase disorder (DSWPD)</strong> and chronic insomnia in adolescents. Our findings revealed that circadian rhythm disruptions play a significant role in the aetiology and pathophysiology of insomnia during adolescence—particularly among individuals with evening chronotypes. The study also identified shared features between DSWPD and insomnia, shedding light on overlapping treatment targets and highlighting the potential for more integrated, chronobiologically informed interventions.
   </p>
