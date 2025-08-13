@@ -1,3 +1,9 @@
+.project-block {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
 .photo-album {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
