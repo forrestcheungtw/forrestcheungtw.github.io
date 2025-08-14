@@ -10,24 +10,28 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 ---
 ## 🔬 Current Projects
 
-<div class="project-block">
-<h3>Developing a Behavioural Sleep Intervention for NHS Shift Workers</h3>
+<div class="project-block" style="text-align: justify;">
+  <h3>Developing a Behavioural Sleep Intervention for NHS Shift Workers</h3>
+  <p><em>Principal Investigator: Simon Kyle, David Ray · University of Oxford</em></p>
   <p>
-    I’m developing and testing a behavioural intervention tailored to <strong>shift work disorder</strong> in UK NHS healthcare workers. The approach combines circadian-based strategies such as bright light therapy with behavioural techniques borrowed from CBT-I to help individuals adapt to irregular shift schedules, aiming to enhance sleep quality and overall well‑being.
+    This project designs and tests a tailored sleep programme for UK NHS staff working irregular shifts. The intervention is co-developed with people who have lived experience of shift work, combining <strong>circadian-based strategies</strong>, such as bright light exposure at specific times, with <strong>behavioural strategies</strong> adapted from cognitive behavioural therapy for insomnia (CBT-I). Co-development with individuals who have lived experience ensures that the intervention is patient-centred and directly addresses the specific challenges faced by shift workers in the NHS. The goal is to help participants sleep better, adjust more easily to changing schedules, and improve overall health and alertness.
+
   </p>
 </div>
 
-<div class="project-block">
-<h3>Efficacy of CBT‑I with Bright Light Therapy for Youths with Insomnia and Evening Chronotype</h3>
+<div class="project-block" style="text-align: justify;">
+  <h3>Efficacy of CBT-I with Bright Light Therapy for Youths with Insomnia and Evening Chronotype</h3>
+  <p><em>Principal Investigator: Shirley Li · University of Hong Kong</em></p>
   <p>
-     This project is a randomised controlled trial investigating the effectiveness of <strong>cognitive behavioural therapy for insomnia (CBT‑I)</strong>, with and without the addition of <strong>bright light therapy</strong>, in youths with insomnia and an evening chronotype. The study evaluates outcomes related to sleep, circadian characteristics, mood, and objective circadian rhythm markers (i.e., DLMO).
+    This randomised controlled trial tests whether adding <strong>bright light therapy</strong> to standard CBT-I improves sleep in young people who have trouble falling asleep until late at night (evening chronotype) and struggle with insomnia. We are measuring changes in sleep patterns, mood, and internal body clock timing (including biological marker called dim-light melatonin onset) to see if the combined approach produces greater benefits than CBT-I alone.
   </p>
 </div>
 
-<div class="project-block">
-<h3>The Role of Circadian Characteristics in Adolescents with Insomnia</h3>
+<div class="project-block" style="text-align: justify;">
+  <h3>The Role of Circadian Characteristics in Adolescents with Insomnia</h3>
+  <p><em>Principal Investigator: Shirley Li · University of Hong Kong</em></p>
   <p>
-  As part of my doctoral thesis, I investigated the circadian characteristics of <strong>delayed sleep–wake phase disorder (DSWPD)</strong> and chronic insomnia in adolescents. Our findings revealed that circadian rhythm disruptions play a significant role in the aetiology and pathophysiology of insomnia during adolescence—particularly among individuals with evening chronotypes. The study also identified shared features between DSWPD and insomnia, shedding light on overlapping treatment targets and highlighting the potential for more integrated, chronobiologically informed interventions.
+    For my doctoral research, I studied how the circadian rhythm affects sleep problems in adolescent, especially those with <strong>delayed sleep–wake phase disorder (DSWPD)</strong> and insomnia. We found that disruptions to the circadian rhythm are a major factor in adolescent insomnia, particularly in night-owls. The results also revealed similarities between DSWPD and insomnia, suggesting that both may respond to integrated treatments that target the body clock alongside sleep habits.
   </p>
 </div>
 
@@ -37,13 +41,18 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 
 ---
 ## 🧩 Research Themes
-- Adolescence mental health
-- Behavioral sleep interventions
-- Chronotherapeutics
-- Insomnia
-- Shift work disorder
-- Sleep and circadian rhythm
+- **Adolescent mental health**
+- **Behavioural sleep interventions**  
+  - Cognitive behavioural therapy for insomnia (CBT-I)
+- **Chronotherapeutics**  
+  - Bright light therapy  
+  - Melatonin
+- **Sleep and circadian rhythm**
+- **Sleep disorders**  
+  - Delayed sleep–wake phase disorder (DSWPD)  
+  - Insomnia  
+  - Shift work disorder
 
 ---
 ## 🔑 Keywords
-Circadian medicine · Insomnia · Shift work disorder · Bright light therapy · CBT‑I · Adolescent sleep · Chronotherapy · Behavioural sleep interventions
+Adolescent sleep · Behavioural sleep interventions · Bright light therapy · Circadian medicine · Chronotherapy · Cognitive behavioural therapy for insomnia (CBT-I) · Insomnia · Shift work disorder
