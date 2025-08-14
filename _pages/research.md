@@ -20,7 +20,11 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 </div>
 
 <div class="project-block" style="text-align: justify;">
-  <h3>Efficacy of CBT-I with Bright Light Therapy for Youths with Insomnia and Evening Chronotype</h3>
+  <h3>
+  <a href="https://sleep.hku.hk/projects/cbti-light/" target="_blank" rel="noopener noreferrer nofollow">
+    Efficacy of CBT-I with Bright Light Therapy for Youths with Insomnia and Evening Chronotype
+  </a>
+</h3>
   <p><em>Principal Investigator: Shirley Li · University of Hong Kong</em></p>
   <p>
     This randomised controlled trial tests whether adding <strong>bright light therapy</strong> to standard CBT-I improves sleep in young people who have trouble falling asleep until late at night (evening chronotype) and struggle with insomnia. We are measuring changes in sleep patterns, mood, and internal body clock timing (including biological marker called dim-light melatonin onset) to see if the combined approach produces greater benefits than CBT-I alone.
@@ -28,7 +32,11 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 </div>
 
 <div class="project-block" style="text-align: justify;">
-  <h3>The Role of Circadian Characteristics in Adolescents with Insomnia</h3>
+  <h3>
+  <a href="https://sleep.hku.hk/projects/insomnia-dlmo/" target="_blank" rel="noopener noreferrer nofollow">
+    The Role of Circadian Characteristics in Adolescents with Insomnia
+  </a>
+</h3>
   <p><em>Principal Investigator: Shirley Li · University of Hong Kong</em></p>
   <p>
     For my doctoral research, I studied how the circadian rhythm affects sleep problems in adolescent, especially those with <strong>delayed sleep–wake phase disorder (DSWPD)</strong> and insomnia. We found that disruptions to the circadian rhythm are a major factor in adolescent insomnia, particularly in night-owls. The results also revealed similarities between DSWPD and insomnia, suggesting that both may respond to integrated treatments that target the body clock alongside sleep habits.
