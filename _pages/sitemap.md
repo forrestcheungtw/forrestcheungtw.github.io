@@ -113,55 +113,64 @@ and by comparing the last path segment (slug).
 </div>
 {%- endif -%}
 
-
-{%- if site.talks and site.talks != empty -%}
+{%- assign talks = site.talks | default: site.collections.talks.docs -%}
+{%- if talks and talks != empty -%}
 <div class="sitemap-section" id="talks">
   <h2>Talks</h2>
-  {%- assign talks = site.talks | where_exp: "t","t.sitemap != false" -%}
 
-  {%- assign years = talks | map:"date" | map:"year" | uniq | sort | reverse -%}
-  {%- for y in years -%}
-    {%- assign y_str = y | append: "" -%}
-    <div class="sitemap-year">{{ y_str }}</div>
-    <ul class="sitemap-list">
-      {%- for t in talks -%}
-        {%- if t.date -%}
-          {%- assign t_year = t.date | date: "%Y" -%}
-          {%- if t_year == y_str -%}
-            <li>
-              <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
-              {%- if t.venue %} <span class="sitemap-muted">— {{ t.venue }}</span>{% endif -%}
-            </li>
-          {%- endif -%}
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
+  {%- comment -%} Split by available date info {%- endcomment -%}
+  {%- assign with_date = "" | split:"" -%}
+  {%- assign year_only = "" | split:"" -%}
+  {%- assign no_when   = "" | split:"" -%}
+
+  {%- for t in talks -%}
+    {%- if t.published == false %}{% continue %}{% endif -%}
+    {%- if t.date -%}
+      {%- assign with_date = with_date | push: t -%}
+    {%- elsif t.year -%}
+      {%- assign year_only = year_only | push: t -%}
+    {%- else -%}
+      {%- assign no_when = no_when | push: t -%}
+    {%- endif -%}
   {%- endfor -%}
+
+  {%- assign with_date   = with_date  | sort: "date" | reverse -%}
+  {%- assign year_only   = year_only  | sort: "year" | reverse -%}
+  {%- assign talks_sorted = with_date | concat: year_only | concat: no_when -%}
+
+  <ul class="sitemap-list">
+    {%- for t in talks_sorted -%}
+      <li>
+        <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
+        {%- if t.date -%}
+          <span class="sitemap-muted"> — {{ t.date | date: "%Y-%m-%d" }}</span>
+        {%- elsif t.year -%}
+          <span class="sitemap-muted"> — {{ t.year }}</span>
+        {%- endif -%}
+        {%- if t.venue %} <span class="sitemap-muted"> — {{ t.venue }}</span>{% endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
 </div>
 {%- endif -%}
-
 
 {%- if site.posts and site.posts != empty -%}
 <div class="sitemap-section" id="posts">
   <h2>News & Updates</h2>
-  {%- assign posts = site.posts | where_exp: "p","p.sitemap != false" -%}
-  {%- assign years = posts | map:"date" | map:"year" | uniq | sort | reverse -%}
-  {%- for y in years -%}
-    <div class="sitemap-year">{{ y }}</div>
-    <ul class="sitemap-list">
-      {%- for post in posts -%}
-        {%- if post.date -%}
-          {%- assign post_year = post.date | date: "%Y" -%}
-          {%- if post_year == y -%}
-            <li>
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              <span class="sitemap-muted">— {{ post.date | date: "%b %d" }}</span>
-            </li>
-          {%- endif -%}
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
-  {%- endfor -%}
+
+  {%- assign posts_sorted = site.posts 
+    | where_exp: "p", "p.published != false" 
+    | sort: "date" 
+    | reverse -%}
+
+  <ul class="sitemap-list">
+    {%- for post in posts_sorted -%}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="sitemap-muted"> — {{ post.date | date: "%Y-%m-%d" }}</span>
+      </li>
+    {%- endfor -%}
+  </ul>
 </div>
 {%- endif -%}
 
