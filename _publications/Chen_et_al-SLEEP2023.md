@@ -3,7 +3,7 @@ title: >-
   Associations between psychological resilience and slow wave sleep in healthy adults
 collection: publications
 category: conferences
-date: 2021-05-03T00:00:00+01:00
+date: 2023-05-29T00:00:00+01:00
 venue: 37th Annual Meeting SLEEP 2023 - Indianapolis, USA
 citation: >-
   Chen, C. X., Wang, R., Cheung, F. T. W., Chan, N. Y., Chan, J., Li, C., ... & Wing, Y. K. (2023). Associations between psychological resilience and slow wave sleep in healthy adults. Sleep, 46(Supplement_1), A61-A61.

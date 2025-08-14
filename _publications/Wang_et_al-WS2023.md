@@ -1,0 +1,21 @@
+---
+title: >-
+  Factors associated with sleep-wake state discrepancy among healthy adults
+collection: publications
+category: conferences
+date: 2024-02-01T00:00:00+01:00
+venue: 17th World Sleep Congress - Rio de Janeiro, Brazil
+citation: >-
+  Wang, R. R., Chen, C. X., Cheung, F. T. W., Chan, N. Y., Chan, J. W. Y., Hou, W. K., ... & Li, S. X. (2024). Factors associated with sleep-wake state discrepancy among healthy adults. Sleep Medicine, 115, S19.
+---
+> Chris Xie Chen, Rachel Ran Wang, **Forrest Tin Wai Cheung**, Ngan-yin Chan, Joey Wing Yan Chan, Wai Kai Hou, Sonata Suk-Yu Yau, Fiona Yan Liu, Yun-Kwok Wing, Tatia Mei Chun Lee, Shirley Xin Li
+
+### Abstract
+
+**Introduction:** Sleep-wake state discrepancy (SWSD), characterized by differences in objectively and subjectively measured sleep parameters, such as total sleep time and sleep onset latency, is a common phenomenon in individuals with insomnia. Yet limited studies have explored SWSD in the general population, especially the discrepancy in wake after sleep onset (WASO), which is often associated with one’s subjective experience of sleep quality and daytime functioning (e.g., mood, cognitive abilities). While previous studies found that individuals who have a higher level of SWSD are more hyper-aroused, they were mainly focused on poor sleepers and were limited by a lack of objective measures of hyperarousal, such as cortical activity during sleep. This study investigated the extent of SWSD of wake after sleep onset in community-dwelling adults and its association with objective macro- and micro-sleep architecture.
+
+**Materials and Methods:** 157 healthy adults (mean age: 29.98±5.42, female: 66.67%) without any sleep or psychiatric disorders as ascertained by the structured clinical interviews were recruited from the community. Participants completed one-night of lab-based or ambulatory polysomnography, post-polysomnography sleep diary, and pre-sleep arousal scale (PSAS). The SWSD index was computed by subtracting objectively assessed WASO by polysomnography from subjectively reported WASO by sleep diary, where a positive value indicates an underestimation of WASO. The results were transformed to absolute values indicating the extent of sleep-wake state discrepancy, and those exceeding the 50th percentile were categorized into the “high discrepancy group”. The YASA Python toolbox was used to perform the spectrum power analysis to assess sleep microstructure.
+
+**Results:** Participants showed a mean of 32.33 minutes of discrepancy between subjectively and objectively assessed WASO and were divided into low and high discrepancy groups in wake after sleep onset using the cutoff of the 50th percentile of the absolute values of SWSD index (21.10 minutes). The high discrepancy group had a longer duration in REM sleep (t(147)=-2.08, p<.05), decreased relative spectral power value in the EEG sigma band across central (t(155)=2.30, p<.05) and occipital (t(153)=2.42, p<.05) brain regions during REM sleep, and elevated EEG absolute beta band (t(142) = -2.14, p<.05) during sleep latency, and a lower degree of self-perceived pre-sleep somatic arousal (t(154)=2.09, p<.05). Backward linear regression analysis further indicated that the absolute beta power before sleep onset and the relative sigma power in the central region during REM sleep were significantly associated with the degree of SWSD after controlling for age and gender.
+
+**Conclusion:** Given that micro-architectural EEG sleep beta and sigma activity are reflections of an index of cortical arousal and sleep stability, respectively, the current findings suggest that the activation of wake-promoting and sleep-protecting neural activity patterns before sleep onset and during REM sleep may be related to the perception of sleep. Future studies should investigate other potential mechanisms underlying the discrepancy between objective and subjective sleep experiences, such as physiological hyperarousal as indicated by heart rate variability.

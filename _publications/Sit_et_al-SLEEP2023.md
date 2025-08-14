@@ -3,7 +3,7 @@ title: >-
   Predictors of treatment response and remission after CBT-I among adolescents with insomnia and eveningness
 collection: publications
 category: conferences
-date: 2021-05-03T00:00:00+01:00
+date: 2023-05-29T00:00:00+01:00
 venue: 37th Annual Meeting SLEEP 2023 - Indianapolis, USA
 citation: >-
   Sit, H. F., Cheung, F. T. W., Chan, N. Y., Chan, J., Zhang, J., Li, A. M., ... & Li, S. X. (2023). Predictors of treatment response and remission after CBT-I among adolescents with insomnia and eveningness. Sleep, 46(Supplement_1), A61-A61.

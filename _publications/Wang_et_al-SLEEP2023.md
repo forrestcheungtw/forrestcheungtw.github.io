@@ -3,7 +3,7 @@ title: >-
   Sleep onset misperception in youths with insomnia: Correlates and implications for treatment
 collection: publications
 category: conferences
-date: 2021-05-03T00:00:00+01:00
+date: 2023-05-29T00:00:00+01:00
 venue: 37th Annual Meeting SLEEP 2023 - Indianapolis, USA
 citation: >-
   Wang, R., Chan, N. Y., Cheung, F. T. W., Chan, J., Zhang, J., Li, A. M., ... & Li, S. X. (2023). Sleep onset misperception in youths with insomnia: Correlates and implications for treatment. Sleep, 46(Supplement_1), A186-A186.

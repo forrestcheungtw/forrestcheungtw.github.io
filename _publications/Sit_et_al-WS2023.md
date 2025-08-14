@@ -1,0 +1,21 @@
+---
+title: >-
+  Experiences of insomnia, help-seeking, and treatment preference among Chinese young adults with insomnia: A qualitative studyExperiences of insomnia, help-seeking, and treatment preference among Chinese young adults with insomnia: a qualitative study
+collection: publications
+category: conferences
+date: 2024-02-01T00:00:00+01:00
+venue: 17th World Sleep Congress - Rio de Janeiro, Brazil
+citation: >-
+  Sit, H. F., Or, J. M. Y., Chan, N. Y., Cheung, F. T. W., Wang, R. R., Wing, Y. K., & Li, S. X. (2024). Experiences of insomnia, help-seeking, and treatment preference among Chinese young adults with insomnia: a qualitative study. Sleep Medicine, 115, S176.
+---
+> Hao Fong Sit, Julia Ming Yee Or, Ngan Yin Chan, **Forrest Tin Wai Cheung**, Rachel Ran Wang, Yun-Kwok Wing, Shirley Xin Li
+
+### Abstract
+
+**Introduction:** Insomnia is a common mental health problem that affects up to 38% of the youth population. However, only around 10% of young people with insomnia seek professional care for their sleep problems. Therefore, understanding the experience of insomnia, help-seeking behaviours, and treatment preferences from the young people’s perspective is essential to the development of suitable programs that can address their needs and concerns. The present study aimed to explore the clinical characteristics of a sample of Chinese youth with insomnia and to identify potential barriers to engaging in treatment.
+
+**Materials and Methods:** Nineteen treatment-seeking young adults (age range=18-20; mean=19.16; SD=0.96; 78.95% female) with DSM-5 insomnia disorder as ascertained by clinical interview took part in a 30-minutes one-to-one semi-structured qualitative interview conducted via videoconferencing. The interview covered the questions on one’s experience of sleep disturbance, previous help-seeking behaviours, and preferences for insomnia treatment. Interviews were audio-recorded and verbatim transcribed. Data analysis for qualitative data was guided by a 6-phrase thematic approach described by Braun and Clarke (2006).
+
+**Results:** Four major themes were identified for the daytime experiences associated with insomnia: physical complaints (e.g., daytime tiredness), cognitive difficulties (e.g., difficulty in concentration), psychomotor difficulties (e.g., being less active during class), and mood impairments (e.g., irritability). Only 15.79% of participants have sought professional help (e.g., medical doctor, traditional Chinese medicine practitioners) for insomnia. Three major themes were identified for the reasons of not seeking professional help: self-perceived severity of symptoms, no access to insomnia treatment, and family influence (e.g., the family believed that it is not necessary to see a doctor ). Three themes were identified for the behaviours to improve sleep: self-reliance (e.g., searching information on the Internet), use of melatonin, and behavioural approaches (e.g., relaxation). Most participants (78.95%) preferred non-pharmacological treatment. Two themes were identified for the consideration of the treatment approach: safety (e.g., drug dependence and side effects) and effectiveness of treatment (e.g., short-term and long-term treatment effects). For treatment delivery modality, most participants (73.68%) preferred digital (e.g., app, telemedicine), followed by individual (42.11%), group-based (26.32%) and in-person (26.32%) interventions. Three themes were identified for the considerations of modality: convenience (e.g., time and place), guidance during treatment (e.g., whether personalised support would be provided during treatment), and treatment setting (e.g., confidentiality, and interaction with others).
+
+**Conclusion:** The current study improved our understanding of how Hong Kong Chinese young adults perceived their insomnia experience and preferred ways of managing insomnia. The findings may inform clinical practice, especially how to best increase treatment seeking and accommodate the needs of young people in the future treatment design for insomnia. Promoting sleep literacy and help-seeking behaviours is needed in future implementation of targeted interventions.
