@@ -5,7 +5,7 @@ title: >-
 collection: publications
 category: conferences
 date: 2025-05-19T00:00:00+01:00
-venue: SLEEP 2025 - Seattle, United States
+venue: 39th Annual Meeting SLEEP 2025 - Seattle, United States
 paperurl:
 citation: >-
   Sit, H. F., Wang, R. R., Cheung, F. T. W., Chan, N. Y., Chan, J., Zhang, J.,

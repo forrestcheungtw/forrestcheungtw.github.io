@@ -5,7 +5,7 @@ title: >-
 collection: publications
 category: conferences
 date: 2024-04-20T00:00:00+01:00
-venue: SLEEP 2024 - Houston, United States
+venue: 38th Annual Meeting SLEEP 2024 - Houston, United States
 citation: >-
   Wang, R., Cheung, F. T. W., Li, X., Chan, N. Y., Chan, J., Wing, Y. K., & Li,
   S. X. (2024). The Role of Hyperarousal in Sleep-wake State Discrepancy in
