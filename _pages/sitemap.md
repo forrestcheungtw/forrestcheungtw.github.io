@@ -68,44 +68,51 @@ and by comparing the last path segment (slug).
   </ul>
 </div>
 
-{%- if site.publications and site.publications != empty -%}
+{%- assign pubs = site.publications | default: site.collections.publications.docs -%}
+{%- if pubs and pubs != empty -%}
 <div class="sitemap-section" id="publications">
   <h2>Publications</h2>
-  {%- assign pubs = site.publications | where_exp: "p","p.sitemap != false" -%}
 
   {%- comment -%}
-  Build a list of years as strings: prefer p.year, fallback to date year.
+  Build a flat, newest→oldest list.
+  We prioritize items with a full `date`, then items with only `year`,
+  then anything without either (at the end). We only skip items with `published: false`.
+  Remove that check if you truly want *everything*, including drafts.
   {%- endcomment -%}
-  {%- assign yrs_from_year = pubs | map:"year" -%}
-  {%- assign yrs_from_date = pubs | map:"date" | map:"year" -%}
-  {%- assign years = "" | split:"" -%}
-  {%- for y in yrs_from_year -%}
-    {%- if y -%}{%- assign years = years | push: y | uniq -%}{%- endif -%}
-  {%- endfor -%}
-  {%- for y in yrs_from_date -%}
-    {%- if y -%}{%- assign years = years | push: y | uniq -%}{%- endif -%}
-  {%- endfor -%}
-  {%- assign years = years | sort | reverse -%}
+  {%- assign with_date = "" | split:"" -%}
+  {%- assign year_only = "" | split:"" -%}
+  {%- assign no_when   = "" | split:"" -%}
 
-  {%- for y in years -%}
-    {%- assign y_str = y | append: "" -%}
-    <div class="sitemap-year">{{ y_str }}</div>
-    <ul class="sitemap-list">
-      {%- for p in pubs -%}
-        {%- assign p_year = "" -%}
-        {%- if p.year -%}
-          {%- assign p_year = p.year | append: "" -%}
-        {%- elsif p.date -%}
-          {%- assign p_year = p.date | date: "%Y" -%}
-        {%- endif -%}
-        {%- if p_year == y_str -%}
-          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-        {%- endif -%}
-      {%- endfor -%}
-    </ul>
+  {%- for p in pubs -%}
+    {%- if p.published == false %}{% continue %}{% endif -%}
+    {%- if p.date -%}
+      {%- assign with_date = with_date | push: p -%}
+    {%- elsif p.year -%}
+      {%- assign year_only = year_only | push: p -%}
+    {%- else -%}
+      {%- assign no_when = no_when | push: p -%}
+    {%- endif -%}
   {%- endfor -%}
+
+  {%- assign with_date  = with_date  | sort: "date" | reverse -%}
+  {%- assign year_only  = year_only  | sort: "year" | reverse -%}
+  {%- assign pubs_sorted = with_date | concat: year_only | concat: no_when -%}
+
+  <ul class="sitemap-list">
+    {%- for p in pubs_sorted -%}
+      <li>
+        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+        {%- if p.date -%}
+          <span class="sitemap-muted"> — {{ p.date | date: "%Y-%m-%d" }}</span>
+        {%- elsif p.year -%}
+          <span class="sitemap-muted"> — {{ p.year }}</span>
+        {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
 </div>
 {%- endif -%}
+
 
 {%- if site.talks and site.talks != empty -%}
 <div class="sitemap-section" id="talks">
