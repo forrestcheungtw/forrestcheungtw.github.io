@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-If you'd like to download a copy of my CV, [click here](/files/forrest-cheung-cv.docx).
+If you'd like to download a copy of my CV, [click here](/files/CV/Forrest-Cheung_CV2025.pdf).
 
 Education
 ======
