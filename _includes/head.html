@@ -8,7 +8,7 @@
 {% include seo.html %}
 <!-- 🔗 Open Graph -->
 <meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ page.excerpt | default: site.description }}">
+<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:type" content="website">
 <meta property="og:image" content="{{ site.url }}/images/og-default.png">
@@ -16,7 +16,7 @@
 <!-- 🐦 Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ page.title | default: site.title }}">
-<meta name="twitter:description" content="{{ page.excerpt | default: site.description }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | default: site.description }}">
 <meta name="twitter:image" content="{{ site.url }}/images/og-default.png">
 
 {% if page.url == "/" %}
