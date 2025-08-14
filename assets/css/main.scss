@@ -40,3 +40,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* --- Dark mode link contrasts (site-wide) --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --link: #58A6FF;
+    --link-hover: #8AB4F8;
+    --link-visited: #91A7FF;
+  }
+
+  a {
+    color: var(--link);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  a:hover,
+  a:focus-visible {
+    color: var(--link-hover);
+    outline: 2px solid currentColor;
+    outline-offset: 2px;
+  }
+  a:visited { color: var(--link-visited); }
+}
