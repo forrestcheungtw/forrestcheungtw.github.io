@@ -67,7 +67,7 @@ breadcrumbs: true
 words_per_minute: 160
 future: true
 read_more: disabled
-talkmap_link: true
+talkmap_link: false
 comments:
   provider:
   disqus:
