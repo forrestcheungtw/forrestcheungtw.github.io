@@ -44,7 +44,7 @@ redirect_from:
       <li>Meta-analysis</li>
       <li>Melatonin assessment</li>
       <li>Polysomnography (PSG) / EEG</li>
-      <li>Randomised control trial (RCT)</li>
+      <li>Randomised controlled trial (RCT)</li>
     </ul>
   </div>
 

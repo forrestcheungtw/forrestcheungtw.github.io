@@ -13,14 +13,14 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 <div class="project-block">
 <h3>Developing a Behavioural Sleep Intervention for NHS Shift Workers</h3>
   <p>
-    I’m developing and testing a behavioural intervention tailored to <strong>shift work disorder</strong> in UK NHS healthcare workers. The approach combines circadian-based strategies such as bright light therpay with behavioral techniques borrowed from CBT-I to help individuals adapt to irregular shift schedules, aiming to enhance sleep quality and overall well‑being.
+    I’m developing and testing a behavioural intervention tailored to <strong>shift work disorder</strong> in UK NHS healthcare workers. The approach combines circadian-based strategies such as bright light therapy with behavioural techniques borrowed from CBT-I to help individuals adapt to irregular shift schedules, aiming to enhance sleep quality and overall well‑being.
   </p>
 </div>
 
 <div class="project-block">
 <h3>Efficacy of CBT‑I with Bright Light Therapy for Youths with Insomnia and Evening Chronotype</h3>
   <p>
-     This project is a randomized controlled trial investigating the effectiveness of <strong>cognitive behavioural therapy for insomnia (CBT‑I)</strong>, with and without the addition of <strong>bright light therapy</strong>, in youths with insomnia and an evening chronotype. The study evaluates outcomes related to sleep, circadian characteristics, mood, and objective circadian rhythm markers (i.e., DLMO).
+     This project is a randomised controlled trial investigating the effectiveness of <strong>cognitive behavioural therapy for insomnia (CBT‑I)</strong>, with and without the addition of <strong>bright light therapy</strong>, in youths with insomnia and an evening chronotype. The study evaluates outcomes related to sleep, circadian characteristics, mood, and objective circadian rhythm markers (i.e., DLMO).
   </p>
 </div>
 

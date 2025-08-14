@@ -10,7 +10,7 @@ paperurl: /files/ConferencePosters/ESRS-MEQ.pdf
 citation: >-
   Cheung, F. T. W., Ho, A. W. Y., Li, X., Chan, J. W. Y., Zhang, J., Chan, N.
   Y., ... & Li, S. X. (2020). Validation of the Chinese version of the Munich
-  Chronotype Questionnaire in Hong Kong youths. Journal of Sleep Reserach,
+  Chronotype Questionnaire in Hong Kong youths. Journal of Sleep Research,
   29(Suppli 1), 327-327.
 ---
 > **Forrest Tin Wai Cheung**, Amy Wing Yin Ho, Xiao Li, Joey Wing Yan Chan, Jihui Zhang, Ngan Yin Chan, Chung Shun Ho, Yun Kwok Wing, Shirley Xin Li

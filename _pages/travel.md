@@ -7,7 +7,7 @@ author_profile: true
 > *To see the world, things dangerous to come to, to see behind walls, draw closer, to find each other, and to feel. That is the purpose of life.*  
 > — *The Secret Life of Walter Mitty*
 
-One of my favorite quotes from film as it captures the spirit of curiosity, exporation, and living the moment that drives both my work and travels.
+One of my favorite quotes from film as it captures the spirit of curiosity, exploration, and living the moment that drives both my work and travels.
 So, besides researching sleep and circadian rhythms (and staring at screens most of the day), I also love wandering and exploring the world whenever I can.
 
 ### ✈️ Favorite Place
