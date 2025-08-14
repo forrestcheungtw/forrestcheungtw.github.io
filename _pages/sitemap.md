@@ -72,16 +72,34 @@ and by comparing the last path segment (slug).
 <div class="sitemap-section" id="publications">
   <h2>Publications</h2>
   {%- assign pubs = site.publications | where_exp: "p","p.sitemap != false" -%}
-  {%- assign years = pubs | map:"date" | map:"year" | uniq | sort | reverse -%}
+
+  {%- comment -%}
+  Build a list of years as strings: prefer p.year, fallback to date year.
+  {%- endcomment -%}
+  {%- assign yrs_from_year = pubs | map:"year" -%}
+  {%- assign yrs_from_date = pubs | map:"date" | map:"year" -%}
+  {%- assign years = "" | split:"" -%}
+  {%- for y in yrs_from_year -%}
+    {%- if y -%}{%- assign years = years | push: y | uniq -%}{%- endif -%}
+  {%- endfor -%}
+  {%- for y in yrs_from_date -%}
+    {%- if y -%}{%- assign years = years | push: y | uniq -%}{%- endif -%}
+  {%- endfor -%}
+  {%- assign years = years | sort | reverse -%}
+
   {%- for y in years -%}
-    <div class="sitemap-year">{{ y }}</div>
+    {%- assign y_str = y | append: "" -%}
+    <div class="sitemap-year">{{ y_str }}</div>
     <ul class="sitemap-list">
       {%- for p in pubs -%}
-        {%- if p.date -%}
+        {%- assign p_year = "" -%}
+        {%- if p.year -%}
+          {%- assign p_year = p.year | append: "" -%}
+        {%- elsif p.date -%}
           {%- assign p_year = p.date | date: "%Y" -%}
-          {%- if p_year == y -%}
-            <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-          {%- endif -%}
+        {%- endif -%}
+        {%- if p_year == y_str -%}
+          <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
         {%- endif -%}
       {%- endfor -%}
     </ul>
@@ -89,30 +107,20 @@ and by comparing the last path segment (slug).
 </div>
 {%- endif -%}
 
-{%- if site.teaching and site.teaching != empty -%}
-<div class="sitemap-section" id="teaching">
-  <h2>Teaching</h2>
-  <ul class="sitemap-list">
-  {%- for c in site.teaching -%}
-    {%- if c.sitemap == false %}{% continue %}{% endif -%}
-    <li><a href="{{ c.url | relative_url }}">{{ c.title }}</a></li>
-  {%- endfor -%}
-  </ul>
-</div>
-{%- endif -%}
-
 {%- if site.talks and site.talks != empty -%}
 <div class="sitemap-section" id="talks">
   <h2>Talks</h2>
   {%- assign talks = site.talks | where_exp: "t","t.sitemap != false" -%}
+
   {%- assign years = talks | map:"date" | map:"year" | uniq | sort | reverse -%}
   {%- for y in years -%}
-    <div class="sitemap-year">{{ y }}</div>
+    {%- assign y_str = y | append: "" -%}
+    <div class="sitemap-year">{{ y_str }}</div>
     <ul class="sitemap-list">
       {%- for t in talks -%}
         {%- if t.date -%}
           {%- assign t_year = t.date | date: "%Y" -%}
-          {%- if t_year == y -%}
+          {%- if t_year == y_str -%}
             <li>
               <a href="{{ t.url | relative_url }}">{{ t.title }}</a>
               {%- if t.venue %} <span class="sitemap-muted">— {{ t.venue }}</span>{% endif -%}
@@ -124,6 +132,7 @@ and by comparing the last path segment (slug).
   {%- endfor -%}
 </div>
 {%- endif -%}
+
 
 {%- if site.posts and site.posts != empty -%}
 <div class="sitemap-section" id="posts">
