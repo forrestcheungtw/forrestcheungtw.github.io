@@ -1,0 +1,21 @@
+---
+title: >-
+  Sleep reactivity is associated with increased arousal during ambulatory polysomnography in healthy adults
+collection: publications
+category: conferences
+date: 2022-07-21T00:00:00+01:00
+venue: 16th World Sleep Congress 2022 - Rome, Italy
+citation: >-
+  Chen, C. X., Wang, R., Cheung, F. T. W., Chan, N. Y., Chan, W. Y., Li, C., ... & Wing, Y. K. (2022). Sleep reactivity is associated with increased arousal during ambulatory polysomnography in healthy adults. Sleep Medicine, 100, S94.
+---
+> Chris Xie Chen, Rachel Ran Wang, **Forrest Tin Wai Cheung**, Ngan Yin Chan, Joey Wing Yan Chan, C Li, Robin Zhengxi Shao, Wai Kai Hou, Sonata Suk-Yu Yau, Fiona Yan Liu, Tatia Mei Chun Lee, Shirley Xin Li, Yun-Kwok Wing
+
+### Abstract
+
+**Introduction:** Stress-related sleep reactivity is a risk marker for the development of insomnia. Studies have indicated that good sleepers with high sleep reactivity are more prone to the development of insomnia, suggesting a critical role of sleep reactivity in the pathogenicity of insomnia. However, there is a lack of data on the association between sleep reactivity and sleep macrostructure in healthy individuals, especially on whether the association of sleep changes is independent to that of cognitive arousal, dysfunctional sleep belief and perceived stress level.
+
+**Materials and Methods:** Forty-one healthy adults (mean: 29.29y, SD: 4.63; 65.9% female) were recruited. All participants underwent Structural Clinical Interview for DSM disorder-5 and Diagnostic Interview for Sleep Patterns and Sleep Disorders to rule out any psychiatric and sleep disorder respectively. Participants underwent one-night home ambulatory polysomnography (PSG) with the Nox-A1 ambulatory PSG monitoring system (Nox Medical, Inc., Reykjavikm, Iceland). They also completed a set of self-reported questionnaires including Perceived Stress Scale (PSS), Insomnia Severity Index (ISI), Pittsburgh Sleep Quality Index (PSQI), pre-sleep arousal questionnaire (PSAS), Ford Insomnia Response to Stress Test (FIRST) and Dysfunctional Beliefs and Attitudes about Sleep Scale (DBAS). PSG data was scored according to the scoring manual of the American Academy of Sleep Medicine (AASM). Independent T test, Pearson correlation analysis and General linear regression analyses were applied in statistical analysis.
+
+**Results:** The degree of sleep reactivity as reflected by the FIRST score was positively correlated with cognitive arousal (r=0.40, p=0.010), somatic arousal (r=0.37, p=0.017), poor sleep quality (r=0.34, p=0.030), and nocturnal arousal index in total sleep (r=0.37, p=0.017), NREM (r=0.33, p=0.037) and REM sleep (r=0.33, p=0.034). Participants were further classified into two groups according to the median split of sleep reactivity scores (low reactive sleepers (FIRST <19, n=19), and high reactive sleepers (FIRST>=19, n=22)]. Those with high sleep reactivity had higher perceived stress level, greater insomnia severity, poorer self-perceived sleep quality and more pre-sleep cognitive arousal. They also tended to show significantly higher index of nocturnal arousal as assessed by PSG, when compared with the low sleep reactivity group. The general linear regression analyses indicated that higher sleep reactivity was positively associated with increased total arousal index (B:0.26, 95%CI (0.05-0.47], p=0.018) and particularly NREM arousal index (B: 0.29, 95%CI (0.03-0.56], p=0.030), after adjusted for age, sex, perceived stress, cognitive arousal and dysfunctional sleep belief, suggesting links between sleep reactivity and nocturnal arousal regardless of different levels of perceived daily stress.
+
+**Conclusion:** Higher sleep reactivity was associated with sleep macrostructure alteration with increased arousal intensity even after controlling for self-perceived stress level in healthy subjects. PSG arousal index may be a potential EEG biomarker for the risk of insomnia in vulnerable individuals. Targeting sleep reactivity in the intervention might be a potential approach to prevent the future onset of insomnia.
