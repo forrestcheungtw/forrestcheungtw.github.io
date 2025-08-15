@@ -82,3 +82,20 @@
 .btn--twitter     { background: #1da1f2; color: #fff; }
 .btn--whatsapp    { background: #25d366 !important; color: #fff; }
 .btn--email       { background: #555555; color: #fff; }
+
+/* Base excerpt stays as-is (venue/location line) */
+.archive__item-excerpt {
+  /* keep your current sizing or set a small, tidy default */
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Bigger, more readable “what this talk is about” text */
+.archive__item-excerpt--summary {
+  font-size: 1.05rem;   /* bump up/down to taste (1.0–1.15rem usually looks great) */
+  line-height: 1.7;
+}
+
+/* Optional: a tiny nudge on mobile if you want parity */
+@media (max-width: 640px) {
+  .archive__item-excerpt--summary { font-size: 1.1rem; }
