@@ -87,33 +87,3 @@
 .btn--twitter  { background: #1da1f2; color: #fff; }
 .btn--whatsapp { background: #25d366 !important; color: #fff; }
 .btn--email    { background: #555555; color: #fff; }
-
-/* --- TALKS PAGE: guarantee thumbnail sizing --- */
-.talks-page .archive__item-teaser > img.talks-thumbnail {
-  width: auto !important;     /* override theme width:100% */
-  max-width: 160px !important;
-  height: auto !important;
-  display: block;
-  border-radius: 8px;
-}
-
-/* Side-by-side layout, scoped to talks page */
-.talks-page .archive__item {
-  display: flex;
-  align-items: flex-start;
-  gap: 1rem;
-}
-
-/* Readable blurb */
-.talks-page .archive__item-excerpt {
-  font-size: 1rem !important;
-  line-height: 1.65 !important;
-}
-
-/* Stack on phones */
-@media (max-width: 640px) {
-  .talks-page .archive__item { flex-direction: column; }
-  .talks-page .archive__item-teaser > img.talks-thumbnail {
-    max-width: 100% !important;
-  }
-}
