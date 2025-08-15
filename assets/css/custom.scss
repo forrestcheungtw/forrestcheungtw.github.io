@@ -94,17 +94,10 @@
 }
 .talk-card:first-child { border-top: 0; }
 
-.talk-card__media {
-  display: block;
-  justify-self: start;
-}
+.talk-card__media { display: block; justify-self: start; }
 .talk-card__media img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
+  display: block; width: 100%; height: auto;
+  border-radius: 6px; aspect-ratio: 3/2; object-fit: cover;
 }
 
 .talk-card__text { min-width: 0; }
@@ -112,16 +105,11 @@
 .talk-meta  { margin: 0 0 .5rem; opacity: .8; }
 
 .talk-excerpt {
-  margin: 0;
-  line-height: 1.5;
-  max-width: 70ch;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;        /* ~3–4 lines */
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  margin: 0; line-height: 1.5; max-width: 70ch;
+  display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;
 }
 
-/* Mobile: stack with image first */
+/* Mobile: stack image on top */
 @media (max-width: 720px) {
   .talk-card { grid-template-columns: 1fr; }
   .talk-card__media { margin-bottom: .5rem; }
