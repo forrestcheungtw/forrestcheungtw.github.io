@@ -1,0 +1,46 @@
+{% include base_path %}
+
+{% assign teaser = nil %}
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<article class="talk-card">
+  {% if teaser %}
+    <a class="talk-card__media" href="{{ post.url | relative_url }}" aria-label="Open {{ title }}">
+      <img
+        src="{{ teaser | relative_url }}"
+        alt=""
+        loading="lazy"
+        decoding="async"
+        width="480"
+        height="320">
+    </a>
+  {% endif %}
+
+  <div class="talk-card__text">
+    <h2 class="talk-title">
+      <a href="{{ post.url | relative_url }}">{{ title }}</a>
+    </h2>
+
+    <p class="talk-meta">
+      {% if post.date %}{{ post.date | date: "%B %d, %Y" }}{% endif %}
+      {% if post.venue %} · {{ post.venue }}{% endif %}
+      {% if post.location %} · {{ post.location }}{% endif %}
+    </p>
+
+    {% if post.summary %}
+      <p class="talk-excerpt">{{ post.summary }}</p>
+    {% elsif post.excerpt %}
+      <p class="talk-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
+    {% else %}
+      <p class="talk-excerpt">{{ post.content | markdownify | strip_html | truncate: 240 }}</p>
+    {% endif %}
+  </div>
+</article>

@@ -80,5 +80,52 @@
 .btn--facebook    { background: #3b5998; color: #fff; }
 .btn--linkedin    { background: #0077b5; color: #fff; }
 .btn--twitter     { background: #1da1f2; color: #fff; }
-.btn--whatsapp    { background: #25d366; color: #fff; }
+.btn--whatsapp    { background: #25d366 !important; color: #fff; }
 .btn--email       { background: #555555; color: #fff; }
+
+/* Talks: image left, text right */
+.talk-card {
+  display: grid;
+  grid-template-columns: 320px 1fr;  /* image | text */
+  gap: 1rem 1.25rem;
+  align-items: center;
+  padding: 1rem 0;
+  border-top: 1px solid var(--border, rgba(0,0,0,.08));
+}
+.talk-card:first-child { border-top: 0; }
+
+.talk-card__media {
+  display: block;
+  justify-self: start;
+}
+.talk-card__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.talk-card__text { min-width: 0; }
+.talk-title { margin: 0 0 .25rem; line-height: 1.25; }
+.talk-meta  { margin: 0 0 .5rem; opacity: .8; }
+
+.talk-excerpt {
+  margin: 0;
+  line-height: 1.5;
+  max-width: 70ch;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;        /* ~3–4 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Mobile: stack with image first */
+@media (max-width: 720px) {
+  .talk-card { grid-template-columns: 1fr; }
+  .talk-card__media { margin-bottom: .5rem; }
+}
+@media (prefers-color-scheme: dark) {
+  .talk-card { border-top-color: rgba(255,255,255,.12); }
+}
