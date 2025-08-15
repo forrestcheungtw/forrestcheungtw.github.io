@@ -85,17 +85,17 @@
 
 /* Base excerpt stays as-is (venue/location line) */
 .archive__item-excerpt {
-  /* keep your current sizing or set a small, tidy default */
   font-size: 0.9rem;
   line-height: 1.5;
 }
 
 /* Bigger, more readable “what this talk is about” text */
-.archive__item-excerpt--summary {
-  font-size: 1.05rem;   /* bump up/down to taste (1.0–1.15rem usually looks great) */
+.archive__item .archive__item-excerpt--summary {
+  font-size: 1.08rem;  /* tweak between 1.00–1.15rem */
   line-height: 1.7;
 }
 
-/* Optional: a tiny nudge on mobile if you want parity */
+/* Optional: a tiny nudge on mobile */
 @media (max-width: 640px) {
-  .archive__item-excerpt--summary { font-size: 1.1rem; }
+  .archive__item .archive__item-excerpt--summary { font-size: 1.1rem; }
+} /* <-- this closing brace was missing */
