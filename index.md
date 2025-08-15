@@ -41,8 +41,8 @@ redirect_from:
     <h3>Methodology</h3>
     <ul>
       <li>Actigraphy</li>
+      <li>Biomarker assessment</li>
       <li>Meta-analysis</li>
-      <li>Melatonin assessment</li>
       <li>Polysomnography (PSG) / EEG</li>
       <li>Randomised controlled trial (RCT)</li>
     </ul>
