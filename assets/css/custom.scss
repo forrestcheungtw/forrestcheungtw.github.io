@@ -83,19 +83,20 @@
 .btn--whatsapp    { background: #25d366 !important; color: #fff; }
 .btn--email       { background: #555555; color: #fff; }
 
-/* Base excerpt stays as-is (venue/location line) */
-.archive__item-excerpt {
-  font-size: 0.9rem;
-  line-height: 1.5;
+/* Make each talk entry flex so image + text are side-by-side */
+.archive__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem; /* space between image and text */
 }
 
-/* Bigger, more readable “what this talk is about” text */
-.archive__item-excerpt.archive__item-excerpt--summary {
-  font-size: 1.12rem !important;
-  line-height: 1.7 !important;
+/* Keep the teaser image from stretching */
+.archive__item-teaser {
+  flex-shrink: 0; /* don't let it shrink smaller than its width */
 }
 
-/* Optional: a tiny nudge on mobile */
-@media (max-width: 640px) {
-  .archive__item .archive__item-excerpt--summary { font-size: 1.1rem; }
-} /* <-- this closing brace was missing */
+.archive__item-teaser img {
+  max-width: 150px; /* thumbnail size */
+  height: auto;
+  border-radius: 8px; /* optional rounded corners */
+  display: block;}
