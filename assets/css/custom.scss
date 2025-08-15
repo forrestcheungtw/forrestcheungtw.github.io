@@ -1,6 +1,8 @@
 ---
 ---
 
+/* ===== Your existing site styles ===== */
+
 .project-block {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
@@ -80,24 +82,27 @@
   margin-right: 0.4rem;
 }
 
-.btn--facebook    { background: #3b5998; color: #fff; }
-.btn--linkedin    { background: #0077b5; color: #fff; }
-.btn--twitter     { background: #1da1f2; color: #fff; }
-.btn--whatsapp    { background: #25d366 !important; color: #fff; }
-.btn--email       { background: #555555; color: #fff; }
+.btn--facebook { background: #3b5998; color: #fff; }
+.btn--linkedin { background: #0077b5; color: #fff; }
+.btn--twitter  { background: #1da1f2; color: #fff; }
+.btn--whatsapp { background: #25d366 !important; color: #fff; }
+.btn--email    { background: #555555; color: #fff; }
 
-/* === TALKS LIST LAYOUT === */
-/* Scope to archive pages so you don’t hit random components elsewhere */
+/* ===== Talks list layout (scoped to archive pages) ===== */
+
 .layout--archive .archive__item {
   display: flex;
   align-items: flex-start;
   gap: 1rem;
 }
 
-/* Thumbnail sizing */
+.layout--archive .archive__item-teaser {
+  flex-shrink: 0;
+}
+
 .layout--archive .archive__item-teaser img {
-  width: auto !important;      /* beat theme's width:100% */
-  max-width: 160px !important; /* tweak: 140–200px */
+  width: auto !important;       /* beat theme width:100% */
+  max-width: 160px !important;  /* tweak 140–200px */
   height: auto !important;
   border-radius: 8px;
   display: block;
@@ -105,7 +110,7 @@
 
 /* Make the blurb readable */
 .layout--archive .archive__item-excerpt {
-  font-size: 1rem !important;  /* try 1.0–1.1rem */
+  font-size: 1rem !important;   /* try 1.0–1.1rem */
   line-height: 1.65 !important;
 }
 
@@ -117,3 +122,4 @@
   .layout--archive .archive__item-teaser img {
     max-width: 100% !important;
   }
+}
