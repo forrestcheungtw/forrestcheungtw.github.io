@@ -83,6 +83,17 @@
 .btn--whatsapp    { background: #25d366 !important; color: #fff; }
 .btn--email       { background: #555555; color: #fff; }
 
+/* Limit talk excerpts to ~3–4 lines */
+.archive__item-excerpt {
+  display: -webkit-box;
+  -webkit-line-clamp: 4; /* Change to 3 if you want fewer lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.5;
+  max-width: 70ch; /* keeps text comfortable to read */
+}
+
 /* Talks: image left, text right */
 .talk-card {
   display: grid;
