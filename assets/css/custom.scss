@@ -90,23 +90,24 @@
   gap: 1rem;
 }
 
-/* Keep the image from stretching; set thumb size */
-.archive__item-teaser {
-  flex-shrink: 0;
-}
-
-.archive__item-teaser img.talks-thumbnail {
-  max-width: 150px;   /* tweak to 140–200px to taste */
-  height: auto;
-  border-radius: 8px; /* optional */
+/* --- Fix giant teaser images --- */
+.archive__item-teaser img {
+  width: auto !important;       /* beat theme's width:100% */
+  max-width: 160px !important;  /* tweak: 140–200px */
+  height: auto !important;
+  border-radius: 8px;
   display: block;
 }
 
-/* Stack on small screens */
-@media (max-width: 640px) {
-  .archive__item {
-    flex-direction: column;
-  }
-  .archive__item-teaser img.talks-thumbnail {
-    max-width: 100%;
-  }
+/* If you still want image + text side-by-side */
+.archive__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+/* --- Make the blurb readable again --- */
+.archive__item-excerpt {
+  font-size: 1rem !important;   /* try 1.0–1.1rem */
+  line-height: 1.65 !important;
+}
