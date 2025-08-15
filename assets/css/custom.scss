@@ -90,9 +90,9 @@
 }
 
 /* Bigger, more readable “what this talk is about” text */
-.archive__item .archive__item-excerpt--summary {
-  font-size: 1.08rem;  /* tweak between 1.00–1.15rem */
-  line-height: 1.7;
+.archive__item-excerpt.archive__item-excerpt--summary {
+  font-size: 1.12rem !important;
+  line-height: 1.7 !important;
 }
 
 /* Optional: a tiny nudge on mobile */
