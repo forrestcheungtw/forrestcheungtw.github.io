@@ -84,18 +84,22 @@
 .btn--email       { background: #555555; color: #fff; }
 
 /* Limit talk excerpts to ~3–4 lines */
+.list__item .archive__item-excerpt,
+.archive__item .archive__item-excerpt,
 .archive__item-excerpt {
-  font-size: 1rem;       /* restores to base paragraph size */
-  font-weight: 400;      /* normal weight */
-  color: inherit;        /* match surrounding text color */
-  margin-top: 0.5rem;    /* slight breathing space */
+  font-size: 1rem;   /* last resort to beat the theme */
+  font-weight: 400;
+  color: inherit;
+  line-height: 1.5;
+  margin-top: 0.5rem;
+
+  /* keep the clamp */
   display: -webkit-box;
-  -webkit-line-clamp: 4; /* Change to 3 if you want fewer lines */
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   overflow: hidden;
   text-overflow: ellipsis;
-  line-height: 1.5;
-  max-width: 70ch; /* keeps text comfortable to read */
+  max-width: 70ch;
 }
 
 /* Talks: image left, text right */
