@@ -85,6 +85,10 @@
 
 /* Limit talk excerpts to ~3–4 lines */
 .archive__item-excerpt {
+  font-size: 1rem;       /* restores to base paragraph size */
+  font-weight: 400;      /* normal weight */
+  color: inherit;        /* match surrounding text color */
+  margin-top: 0.5rem;    /* slight breathing space */
   display: -webkit-box;
   -webkit-line-clamp: 4; /* Change to 3 if you want fewer lines */
   -webkit-box-orient: vertical;
