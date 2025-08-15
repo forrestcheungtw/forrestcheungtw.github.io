@@ -88,70 +88,32 @@
 .btn--whatsapp { background: #25d366 !important; color: #fff; }
 .btn--email    { background: #555555; color: #fff; }
 
-/* ===== Talks list layout (scoped to archive pages) ===== */
-
-.layout--archive .archive__item {
-  display: flex;
-  align-items: flex-start;
-  gap: 1rem;
-}
-
-.layout--archive .archive__item-teaser {
-  flex-shrink: 0;
-}
-
-.layout--archive .archive__item-teaser img {
-  width: auto !important;       /* beat theme width:100% */
-  max-width: 160px !important;  /* tweak 140–200px */
+/* --- TALKS PAGE: guarantee thumbnail sizing --- */
+.talks-page .archive__item-teaser > img.talks-thumbnail {
+  width: auto !important;     /* override theme width:100% */
+  max-width: 160px !important;
   height: auto !important;
-  border-radius: 8px;
   display: block;
+  border-radius: 8px;
 }
 
-/* Make the blurb readable */
-.layout--archive .archive__item-excerpt {
-  font-size: 1rem !important;   /* try 1.0–1.1rem */
-  line-height: 1.65 !important;
-}
-
-/* Stack nicely on phones */
-@media (max-width: 640px) {
-  .layout--archive .archive__item {
-    flex-direction: column;
-  }
-  .layout--archive .archive__item-teaser img {
-    max-width: 100% !important;
-  }
-}
-/* === TALKS PAGE LAYOUT === */
+/* Side-by-side layout, scoped to talks page */
 .talks-page .archive__item {
   display: flex;
   align-items: flex-start;
   gap: 1rem;
 }
 
-.talks-page .archive__item-teaser {
-  flex-shrink: 0;
-}
-
-/* Kill theme's width:100% and cap size */
-.talks-page .archive__item-teaser img {
-  width: auto !important;
-  max-width: 160px !important; /* tweak: 140–200px */
-  height: auto !important;
-  border-radius: 8px;
-  display: block;
-}
-
-/* Comfortable blurb size */
+/* Readable blurb */
 .talks-page .archive__item-excerpt {
-  font-size: 1rem !important;   /* 1.00–1.10rem works well */
+  font-size: 1rem !important;
   line-height: 1.65 !important;
 }
 
-/* Stack on small screens */
+/* Stack on phones */
 @media (max-width: 640px) {
   .talks-page .archive__item { flex-direction: column; }
-  .talks-page .archive__item-teaser img { max-width: 100% !important; }
+  .talks-page .archive__item-teaser > img.talks-thumbnail {
+    max-width: 100% !important;
+  }
 }
-
