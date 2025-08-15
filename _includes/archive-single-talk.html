@@ -19,9 +19,12 @@
   <div class="archive__item-teaser">
     <img
       src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}"
-      alt="{{ title | strip_html }}">
+      alt="{{ title | strip_html }}"
+      class="talks-thumbnail"
+      style="width: 160px; height: auto;">  <!-- TEMP sanity check -->
   </div>
 {%- endif -%}
+
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
