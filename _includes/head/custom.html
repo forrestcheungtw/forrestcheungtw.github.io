@@ -23,8 +23,16 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  // This line is the critical one that was missing
-  gtag('config', 'G-2J9340W2YW', { 'debug_mode': true });
+  gtag('config', 'G-2J9340W2YW', { 'debug_mode': true, 'send_page_view': false });
+
+  // Force a page_view explicitly
+  gtag('event', 'page_view', {
+    page_title: document.title,
+    page_location: location.href,
+    page_path: location.pathname
+  });
+
+  console.log("GA4 page_view fired for", location.href);
 </script>
 
 <!-- end custom head snippets -->
