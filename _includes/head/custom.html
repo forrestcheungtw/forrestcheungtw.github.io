@@ -22,7 +22,9 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-2J9340W2YW');
+
+  // This line is the critical one that was missing
+  gtag('config', 'G-2J9340W2YW', { 'debug_mode': true });
 </script>
 
 <!-- end custom head snippets -->
