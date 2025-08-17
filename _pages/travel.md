@@ -11,7 +11,7 @@ One of my favorite quotes from film as it captures the spirit of curiosity, expl
 So, besides researching sleep and circadian rhythms (and staring at screens most of the day), I also love wandering and exploring the world whenever I can.
 
 ### ✈️ Favorite Place
-**Home Kong**
+**Home Kong:**
 My favourite place will always be Hong Kong — it's where I grew up, and it still feels like the centre of my world. 
 It may be small, but it has everything: amazing food, a buzzing city life, quiet nature trails, beaches, and hidden corners full of character.
 Most importantly, it’s where my family and closest friends are.
