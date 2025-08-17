@@ -1,8 +1,7 @@
 ---
 ---
 
-/* ===== Your existing site styles ===== */
-
+/* ===== Travel Page ===== */
 .project-block {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
@@ -30,11 +29,23 @@
 
 .caption {
   text-align: center;
-  font-size: 0.9rem;
   margin-top: 0.5rem;
-  color: #555;
 }
 
+.caption-title {
+  font-weight: bold;
+  font-size: 1rem;   /* slightly larger */
+  color: #222;       /* darker for emphasis */
+  line-height: 1.2;
+}
+
+.caption-sub {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+
+/* ===== Research Page ===== */
 .research-grid {
   display: grid;
   grid-template-columns: 1fr;

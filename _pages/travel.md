@@ -25,12 +25,16 @@ I'm grateful that my work often takes me places — whether it's for conferences
   {% for item in site.data.travel_gallery %}
     <div class="photo-card">
       <a href="/images/travel/{{ item.file }}" target="_blank">
-        <img src="/images/travel/{{ item.file }}" alt="{{ item.caption }}">
+        <img src="/images/travel/{{ item.file }}" alt="{{ item.title }} - {{ item.caption }}">
       </a>
-      <div class="caption">{{ item.caption }}</div>
+      <div class="caption">
+        <div class="caption-title">{{ item.title }}</div>
+        <div class="caption-sub">{{ item.caption }}</div>
+      </div>
     </div>
   {% endfor %}
 </div>
+
 ---
 Thanks for stopping by!  
 If you have any travel recommendations or just want to chat about good food and wine, hidden beaches, SCUBA diving, or anything travel related — feel free to [drop me an email](mailto:contact@forrestcheung.com).
