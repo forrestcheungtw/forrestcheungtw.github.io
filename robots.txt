@@ -8,4 +8,4 @@ Disallow: /page-archive/
 Disallow: /collection-archive/
 Disallow: /sitemap/
 
-Sitemap: https://forrestcheungtw.github.io/sitemap.xml
+Sitemap: https://forrestcheung.com/sitemap.xml
