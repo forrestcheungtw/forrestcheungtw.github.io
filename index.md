@@ -71,6 +71,5 @@ redirect_from:
 ## 📬 Contact Me
 
 <div style="text-align: justify;">
-  <p>If you’d like to chat about sleep research or collaboration, <a href="mailto:contact@forrestcheung.com">feel free to reach out!</a></p>
-  📧 
-</div>
+  <p>If you’d like to chat about sleep research or collaboration, <a href="mailto:contact@forrestcheung.com">📧 feel free to reach out!</a></p>
+  </div>
