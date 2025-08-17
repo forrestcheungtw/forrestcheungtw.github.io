@@ -4,7 +4,7 @@ title: "Forrest Cheung, PhD"
 title_separator: '-'
 name: Forrest Cheung
 description: "Research psychologist with a focus on behavioural sleep and circadian medicine"
-url: "https://forrestcheung.com"
+url: https://forrestcheung.com
 baseurl: ''
 repository: https://forrestcheungtw.github.io/
 author:
@@ -15,7 +15,7 @@ author:
   location: Oxford, United Kingdom
   employer: University of Oxford
   uri: https://www.ndcn.ox.ac.uk/team/forrest-tin-wai-cheung
-  email: forrestcheungtw@gmail.com
+  email: contact@forrestcheung.com
   linkedin: /forrestcheung/
   orcid: https://orcid.org/0000-0003-4462-9639
   googlescholar: https://scholar.google.com/citations?user=67fQKaUAAAAJ&hl
