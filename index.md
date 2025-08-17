@@ -72,5 +72,5 @@ redirect_from:
 
 <div style="text-align: justify;">
   <p>If you’d like to chat about sleep research or collaboration, feel free to reach out:
-    📧 <a href="mailto:contact@forrestcheung.com">contact@forrestcheung.com</a></p>
+    📧 <a href="mailto:contact@forrestcheung.com">hello@forrestcheung.com</a></p>
   </div>
