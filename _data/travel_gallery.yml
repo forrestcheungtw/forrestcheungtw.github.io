@@ -1,18 +1,27 @@
 - file: travel_oxford.jpg
   title: "Oxford, UK"
-  caption: "View outside my office window (okay, not exactly)"
+  caption: "View outside my office window (not exactly but close enough :P)"
+- file: travel_parkisland.jpg
+  title: "Park Island, Hong Kong"
+  caption: "A much quieter side of Hong Kong"
+- file: travel_hallstatt.jpg
+  title: "Hallstatt, Austria"
+  caption: "My most recent trip: no filter needed"
+- file: travel_paris.jpg
+  title: "Paris, France"
+  caption: "Eiffel for it"
 - file: travel_easterisland1.jpg
   title: "Rano Raraku, Easter Island"
-  caption: "Still in awe of the history and stories behind these moai"
+  caption: "The moai won the stare-down contest against me"
 - file: travel_easterisland2.jpg
   title: "Ahu Vai Ure, Easter Island"
   caption: "That sunset though"
 - file: travel_brazil1.jpg
   title: "Sugarloaf Mountain, Rio de Janeiro"
-  caption: "A perfect evening escape during World Sleep 2023"
+  caption: "World Sleep 2023 by day, sightseeing by night"
 - file: travel_brazil2.jpg
   title: "Iguazu Falls, Foz de Iguazu"
-  caption: "Amazed by the largest waterfall system in the world"
+  caption: "So much water"
 - file: travel_bangkok1.jpg
   title: "Ayutthaya Temples, Bangkok"
   caption: "A nice little day trip during the ASSM 2023 meeting."
