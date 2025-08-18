@@ -1,35 +1,22 @@
 {% include base_path %}
 
-<!-- Viewport -->
+<!-- start custom head snippets -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+<link rel="canonical" href="{{ '/' | absolute_url }}">
 
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | absolute_url }}?v={{ site.time | date: '%s' }}">
 
 <!-- Favicon  -->
+<link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
-
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | absolute_url }}?v={{ site.time | date: '%s' }}">
-
-<!-- Meta Description (uses page.description, falls back to site.description) -->
-<meta name="description"
-      content="{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 160 }}">
-
-<!-- Site name structured data -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "url": "{{ '/' | absolute_url }}",
-  "name": "Forrest Cheung",
-  "alternateName": "Forrest Cheung, PhD"
-}
-</script>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-NQVNQ8P8BH"></script>
