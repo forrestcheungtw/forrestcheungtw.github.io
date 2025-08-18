@@ -6,9 +6,9 @@ name: Forrest Cheung
 description: "Forrest Cheung, PhD - Research psychologist with a focus on behavioural sleep and circadian medicine"
 url: https://drforrestcheung.com
 baseurl: ''
-repository: https://forrestcheungtw.github.io/
+repository: forrestcheungtw/forrestcheungtw.github.io
 author:
-  avatar: profile.png
+  avatar: /images/profile.png
   name: Forrest TW Cheung
   pronouns:
   bio: Research psychologist | Sleep scientist
@@ -114,6 +114,8 @@ facebook:
   username:
   app_id:
   publisher:
+image: /images/og-default.png
+logo:  /images/og-default.png
 og_image: /images/og-default.png
 og_description: Research psychologist with a focus on behavioural sleep and circadian medicine.
 social:
@@ -240,7 +242,7 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
-timezone: Etc/UTC
+timezone: Europe/London
 plugins:
   - jekyll-feed
   - jekyll-gist
