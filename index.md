@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Forrest Cheung, PhD
-## 👋🏼 Hello there!
-
+# 👋🏼 Hello there!
 <div style="text-align: justify;">
 
   <p>I’m Forrest, a postdoctoral researcher in sleep medicine at the <a href="https://www.ndcn.ox.ac.uk/research/experimental-and-clinical-sleep-medicine-group" target="_blank" rel="noopener noreferrer">Experimental and Clinical Sleep Medicine</a> group, part of the <a href="https://www.scni.ox.ac.uk/" target="_blank" rel="noopener noreferrer">Sir Jules Thorn Sleep and Circadian Neuroscience Institute</a> at the University of Oxford.</p>
