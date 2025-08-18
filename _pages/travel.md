@@ -37,4 +37,4 @@ I'm grateful that my work often takes me places — whether it's for conferences
 
 ---
 Thanks for stopping by!  
-If you have any travel recommendations or just want to chat about good food and wine, hidden beaches, SCUBA diving, or anything travel related — feel free to [drop me an email](mailto:contact@forrestcheung.com).
+If you have any travel recommendations or just want to chat about good food and wine, hidden beaches, SCUBA diving, or anything travel related — feel free to [drop me an email](mailto:contact@drforrestcheung.com).

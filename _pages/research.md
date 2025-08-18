@@ -39,7 +39,7 @@ My research centres on **behavioral sleep and circadian medicine**, with a focus
 
 ---
 📖 You can explore my full list of [publications](/publications/).  
-🤝 If you're interested in collaborating, [drop me a message](mailto:contact@forrestcheung.com)!
+🤝 If you're interested in collaborating, [drop me a message](mailto:contact@drforrestcheung.com)!
 
 ---
 ## 🧩 Research Themes
