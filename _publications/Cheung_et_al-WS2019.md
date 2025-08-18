@@ -4,7 +4,7 @@ title: >-
   mediating role of rumination and impulsivity
 collection: publications
 category: conferences
-date: 2019-12-17T00:00:00Z
+date: 2019-12-18T00:00:00Z
 venue: 15th World Sleep Congress 2019 - Vancouver, Canada
 paperurl:
 citation: >-

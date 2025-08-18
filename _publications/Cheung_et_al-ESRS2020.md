@@ -4,7 +4,7 @@ title: >-
   Hong Kong youths
 collection: publications
 category: conferences
-date: 2020-09-15T00:00:00+01:00
+date: 2020-09-16T00:00:00+01:00
 venue: 25th Congress of ESRS 2020 - Virtual Congress
 paperurl: /files/ConferencePosters/ESRS-MEQ.pdf
 citation: >-

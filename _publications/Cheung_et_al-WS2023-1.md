@@ -5,7 +5,7 @@ title: >-
   controlled trial
 collection: publications
 category: conferences
-date: 2024-02-01T00:00:00+01:00
+date: 2024-02-02T00:00:00+01:00
 venue: 17th World Sleep Congress - Rio de Janeiro, Brazil
 paperurl: /files/ConferencePosters/WS2023-CBTI BLT.pdf
 citation: >-
