@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# 👋🏼 Hello there!
+# Forrest Cheung, PhD
+## 👋🏼 Hello there!
 
 <div style="text-align: justify;">
 
