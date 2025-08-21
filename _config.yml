@@ -4,8 +4,9 @@ title: "Forrest Cheung, PhD"
 title_separator: '-'
 name: Forrest Cheung
 description: "Forrest Cheung, PhD - Research psychologist with a focus on behavioural sleep and circadian medicine"
-url: https://drforrestcheung.com
+url: "https://drforrestcheung.com"
 baseurl: ''
+permalink: pretty
 repository: forrestcheungtw/forrestcheungtw.github.io
 author:
   avatar: profile.png
@@ -197,7 +198,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
