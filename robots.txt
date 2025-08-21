@@ -1,11 +1,4 @@
 User-agent: *
 Allow: /
 
-# De-emphasise utility pages from crawling
-Disallow: /categories/
-Disallow: /tags/
-Disallow: /page-archive/
-Disallow: /collection-archive/
-Disallow: /sitemap/
-
 Sitemap: https://drforrestcheung.com/sitemap.xml
