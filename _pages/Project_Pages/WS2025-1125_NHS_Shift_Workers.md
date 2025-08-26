@@ -1,7 +1,11 @@
 ---
+layout: page
 title: "Developing a Pragmatic Online Behavioural Intervention for Shift Work Disorder in NHS Staff"
-date: 2025-08-26
-Permalink: /WS2025_1125/
+permalink: /WS2025_1125/
+author_profile: true
 ---
-Hello, thank you for accessing this to learn more about the project.
+## Poster Presented at World Sleep 2025
+### Developing a Pragmatic Online Behavioural Intervention for Shift Work Disorder in NHS Staff
 
+You can read more on the OxBIS acceptability and feasibility trial ([here](https://www.isrctn.com/ISRCTN86601865)):
+https://www.isrctn.com/ISRCTN86601865
