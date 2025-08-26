@@ -9,7 +9,7 @@ sitemap: false
 
 **Forrest Tin Wai Cheung**, Rachel Sharman, Dimitri Gavriloff, Thavapriya Sugavanam, Leah Holmes, Annie Keane, Colin A. Espie, Amy C. Reynolds, David Ray, Simon D. Kyle 
 
-### Feasibility and Acceptability Trialt ###
+### Feasibility and Acceptability Trial ###
 
 Link to trial registration:
 {% include button.html text="Trial registration (ISRCTN)" link="https://www.isrctn.com/ISRCTN86601865" icon="fas fa-external-link-alt" %}
